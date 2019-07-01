@@ -1,0 +1,3 @@
+integer (LimitTime) {
+  description (출발까지 남은 시간)
+}

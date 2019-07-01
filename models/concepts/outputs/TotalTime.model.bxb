@@ -1,0 +1,3 @@
+integer (TotalTime) {
+  description (총 걸린 시간)
+}

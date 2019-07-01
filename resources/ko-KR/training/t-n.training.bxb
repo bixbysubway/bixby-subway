@@ -1,0 +1,15 @@
+train (t-n60oqt2hq9vuvxkugb579btqu) {
+  utterance ("[g:Subway] (선학)[v:StartPoint]에서 (부평)[v:EndPoint]까지 지하철 노선")
+  plan (Y2BhEE2tSMwtyEnVKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIASA+GBRAA==)
+  last-modified (1560995189013)
+}
+train (t-nl3klwk5zdlmpz0wn7609z5zy) {
+  utterance ("[g:FindPath] (선학)[v:EndPoint]까지 알려줘")
+  plan (Y2BmkCjISaxML8ovzUvRKy5NKk+s1AsGUwxSmDJumXkpAYklGdjkXIFS+Zl5JQxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1561988665213)
+}
+train (t-nw009h72zi3dvtxsl8w9yhzoo) {
+  utterance ("[g:FindPath] (인하대)[v:StartPoint]에서 (숭의)[v:EndPoint] 지하철")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561362300709)
+}

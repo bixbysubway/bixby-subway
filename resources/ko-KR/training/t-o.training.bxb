@@ -1,0 +1,5 @@
+train (t-okaqn91407zcagkq5dcpho62p) {
+  utterance ("[g:FindPath] (원인재)[v:StartPoint]에서 (인하대)[v:EndPoint] (막차)[v:Mak]")
+  plan (Y2BlEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgYhNAnfxGwGSXTDSxKLSiDKWRgYGZgYmIE0A5AFgTCAJAcA)
+  last-modified (1561556274068)
+}

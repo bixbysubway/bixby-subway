@@ -1,0 +1,17 @@
+capsule-info {
+  display-name (지하철 알림이)
+  developer-name (Pincom)
+  icon-asset (/train.png)
+  description ("출발역과 도착역을 입력하면 최단거리 경로와 지하철 환승지, 환승시간 정보를 알려줍니다.")
+  website-url (https://github.com/bixbysubway/)
+  search-keywords {
+    keyword (지하철)
+    keyword (지하철 시간표)
+    keyword (전철)
+  }
+  dispatch-name (지하철 알림이)
+  dispatch-aliases {
+    alias (지하철알림이)
+  }
+}
+

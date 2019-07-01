@@ -1,0 +1,8 @@
+hints {
+  uncategorized {
+    utterance (원인재에서 신도림까지)
+    utterance (10분 뒤에 원인재에서 신도림)
+    utterance (30분 뒤에 원인재 신도림)
+    utterance (강남)
+  }
+}

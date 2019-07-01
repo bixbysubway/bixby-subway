@@ -1,0 +1,67 @@
+layout-macro-def (SubwayInfo) {
+  params {
+    param (info) {
+      type (Subway)
+      min (Required) max (One)
+    }
+  }
+ 
+  content {
+    section {
+      content {
+        partitioned {
+          content {
+            title-area {
+              halign (Center)
+              slot1 {
+                single-line {
+                  image {url ("/images/#{value(info.imgLine)}.PNG") shape (Circle) background-color (Transparent) style (Title_XXL)}
+                }
+              }
+              slot2 {
+                single-line {
+                  text (" ")
+                }
+              }
+              slot3 {
+                single-line {
+                  text {value {template ("#{value(info.startStation)}")} style (Title_XS)}
+                }
+              }
+            }
+            hbox {
+              content {
+                vbox {
+                  halign (Center)
+                  valign (Middle)
+                  content {
+                    text {value {template ("#{value(info.startTime)}")} style (Detail_L_Soft)}
+                  }
+                }
+                vbox {
+                  halign (Center)
+                  valign (Middle)
+                  content {
+                    text(" ") text(" ")
+                    for-each (info.path) {
+                      as (attribute) {
+                        text {value ("#{value(attribute)}") style (Detail_L)}
+                      }
+                    }
+                  }
+                }
+                vbox {
+                  halign (Center)
+                  valign (Middle)
+                  content {
+                    text {value {template ("#{value(info.endTime)}")} style (Detail_L_Soft)}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+train (t-7r44w31d7xh4ok4crq8ub00e7) {
+  utterance ("[g:FindPath] (10)[v:WishTime]분뒤에 (선학)[v:StartPoint]에서 (주안)[v:EndPoint]")
+  plan (Y2BlEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLoesIzizNCMnNTGVgYGBmYGJiBNAOQBYEwgCQHAA==)
+  last-modified (1561557165504)
+}

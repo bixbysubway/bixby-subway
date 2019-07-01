@@ -1,0 +1,39 @@
+structure (Subway) {
+  description (결과 구조체)
+  property (path) {
+    type (Path)
+    min (Required) max (Many)
+  }
+  property (line) {
+    type (Line)
+    min (Required) max (Many)
+  }
+  property (startTime) {
+    type (StartTime)
+    min (Required) max (Many)
+  }
+  property (endTime) {
+    type (EndTime)
+    min (Required) max (Many)
+  }
+  property (startStation) {
+    type (StartStation)
+    min (Required) max (Many)
+  }
+  property (endStation) {
+    type (EndStation)
+    min (Required) max (Many)
+  }
+  property (totalTime) {
+    type (TotalTime)
+    min (Required) max (One)
+  }
+  property (imgLine) {
+    type (ImgLine)
+    min (Required) max (One)
+  }
+  property (limitTime) {
+    type (LimitTime)
+    min (Required) max (One)
+  }
+}

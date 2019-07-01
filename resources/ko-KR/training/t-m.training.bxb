@@ -1,0 +1,5 @@
+train (t-mxeg7rtutu33d9iftyspokn4m) {
+  utterance ("[g:FindPath] (인천 시청)[v:StartPoint] (인천 터미널)[v:EndPoint] (막차)[v:Mak]")
+  plan (Y2BlEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgYhNAnfxGwGSXTDSxKLSiDKWRgYGZgYmIE0A5AFgTCAJAcA)
+  last-modified (1561556349317)
+}

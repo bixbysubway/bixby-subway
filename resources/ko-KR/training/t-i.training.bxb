@@ -1,0 +1,10 @@
+train (t-icw2qkwmq15wze09eig5uv6r1) {
+  utterance ("[g:FindPath] (선학)[v:StartPoint]에서 (주안)[v:EndPoint] (막차)[v:Mak] 시간 알려줘")
+  plan (Y2BlEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgYhNAnfxGwGSXTDSxKLSiDKWRgYGZgYmIE0A5AFgTCAJAcA)
+  last-modified (1561556215391)
+}
+train (t-ifgjgm3kmmmxyblyyzj1ql0ht) {
+  utterance ("[g:FindPath] (인하대)[v:StartPoint] (숭의)[v:EndPoint]까지 지하철")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561366095965)
+}

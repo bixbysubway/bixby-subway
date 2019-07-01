@@ -1,0 +1,30 @@
+capsule {
+  id (pin_com.subway)
+  version (0.2.3)
+  format (3)
+  targets {
+    target (bixby-mobile-ko-KR)
+  }
+  runtime-flags {
+    concepts-inherit-super-type-features
+    support-halt-effect-in-computed-inputs
+    modern-prompt-rejection
+  }
+  capsule-imports{
+    // 라이브러리 사용하는 함수
+    import (viv.core){
+      as(core)
+    }
+    import (viv.geo){
+      as(geo)
+      version (9.17.4)
+      //해당 버전의 geo 라이브러리를 geo라는 별칭으로 사용
+    }
+  }
+    permissions{
+    user-profile-access
+  } 
+  store-sections {
+    section (TravelAndTransportation)
+  }
+}

@@ -1,0 +1,3606 @@
+module.exports = [{
+  "station_nm": "가능",
+  "line_num": "1",
+  "station_cd": "1907",
+  "num": 1
+}, {
+  "station_nm": "가산디지털단지",
+  "line_num": "1",
+  "station_cd": "1702",
+  "num": 2
+}, {
+  "station_nm": "간석",
+  "line_num": "1",
+  "station_cd": "1816",
+  "num": 3
+}, {
+  "station_nm": "개봉",
+  "line_num": "1",
+  "station_cd": "1801",
+  "num": 4
+}, {
+  "station_nm": "관악",
+  "line_num": "1",
+  "station_cd": "1705",
+  "num": 5
+}, {
+  "station_nm": "광명",
+  "line_num": "1",
+  "station_cd": "1750",
+  "num": 6
+}, {
+  "station_nm": "광운대",
+  "line_num": "1",
+  "station_cd": "1019",
+  "num": 7
+}, {
+  "station_nm": "구로",
+  "line_num": "1",
+  "station_cd": "1701",
+  "num": 8
+}, {
+  "station_nm": "구일",
+  "line_num": "1",
+  "station_cd": "1813",
+  "num": 9
+}, {
+  "station_nm": "군포",
+  "line_num": "1",
+  "station_cd": "1709",
+  "num": 10
+}, {
+  "station_nm": "금정",
+  "line_num": "1",
+  "station_cd": "1708",
+  "num": 11
+}, {
+  "station_nm": "금천구청",
+  "line_num": "1",
+  "station_cd": "1703",
+  "num": 12
+}, {
+  "station_nm": "남영",
+  "line_num": "1",
+  "station_cd": "1002",
+  "num": 13
+}, {
+  "station_nm": "노량진",
+  "line_num": "1",
+  "station_cd": "1004",
+  "num": 14
+}, {
+  "station_nm": "녹양",
+  "line_num": "1",
+  "station_cd": "1908",
+  "num": 15
+}, {
+  "station_nm": "녹천",
+  "line_num": "1",
+  "station_cd": "1021",
+  "num": 16
+}, {
+  "station_nm": "당정",
+  "line_num": "1",
+  "station_cd": "1729",
+  "num": 17
+}, {
+  "station_nm": "대방",
+  "line_num": "1",
+  "station_cd": "1005",
+  "num": 18
+}, {
+  "station_nm": "덕계",
+  "line_num": "1",
+  "station_cd": "1910",
+  "num": 19
+}, {
+  "station_nm": "덕정",
+  "line_num": "1",
+  "station_cd": "1911",
+  "num": 20
+}, {
+  "station_nm": "도봉",
+  "line_num": "1",
+  "station_cd": "1902",
+  "num": 21
+}, {
+  "station_nm": "도봉산",
+  "line_num": "1",
+  "station_cd": "1903",
+  "num": 22
+}, {
+  "station_nm": "도원",
+  "line_num": "1",
+  "station_cd": "1817",
+  "num": 23
+}, {
+  "station_nm": "도화",
+  "line_num": "1",
+  "station_cd": "1823",
+  "num": 24
+}, {
+  "station_nm": "독산",
+  "line_num": "1",
+  "station_cd": "1714",
+  "num": 25
+}, {
+  "station_nm": "동대문",
+  "line_num": "1",
+  "station_cd": "0155",
+  "num": 26
+}, {
+  "station_nm": "동두천",
+  "line_num": "1",
+  "station_cd": "1915",
+  "num": 27
+}, {
+  "station_nm": "동두천중앙",
+  "line_num": "1",
+  "station_cd": "1913",
+  "num": 28
+}, {
+  "station_nm": "동묘앞",
+  "line_num": "1",
+  "station_cd": "0159",
+  "num": 29
+}, {
+  "station_nm": "동암",
+  "line_num": "1",
+  "station_cd": "1808",
+  "num": 30
+}, {
+  "station_nm": "동인천",
+  "line_num": "1",
+  "station_cd": "1811",
+  "num": 31
+}, {
+  "station_nm": "두정",
+  "line_num": "1",
+  "station_cd": "1727",
+  "num": 32
+}, {
+  "station_nm": "망월사",
+  "line_num": "1",
+  "station_cd": "1904",
+  "num": 33
+}, {
+  "station_nm": "명학",
+  "line_num": "1",
+  "station_cd": "1707",
+  "num": 34
+}, {
+  "station_nm": "방학",
+  "line_num": "1",
+  "station_cd": "1901",
+  "num": 35
+}, {
+  "station_nm": "배방",
+  "line_num": "1",
+  "station_cd": "1405",
+  "num": 36
+}, {
+  "station_nm": "백운",
+  "line_num": "1",
+  "station_cd": "1807",
+  "num": 37
+}, {
+  "station_nm": "병점",
+  "line_num": "1",
+  "station_cd": "1716",
+  "num": 38
+}, {
+  "station_nm": "보산",
+  "line_num": "1",
+  "station_cd": "1914",
+  "num": 39
+}, {
+  "station_nm": "봉명",
+  "line_num": "1",
+  "station_cd": "1401",
+  "num": 40
+}, {
+  "station_nm": "부개",
+  "line_num": "1",
+  "station_cd": "1815",
+  "num": 41
+}, {
+  "station_nm": "부천",
+  "line_num": "1",
+  "station_cd": "1804",
+  "num": 42
+}, {
+  "station_nm": "부평",
+  "line_num": "1",
+  "station_cd": "1806",
+  "num": 43
+}, {
+  "station_nm": "서동탄",
+  "line_num": "1",
+  "station_cd": "1749",
+  "num": 44
+}, {
+  "station_nm": "서울",
+  "line_num": "1",
+  "station_cd": "0150",
+  "num": 45
+}, {
+  "station_nm": "서정리",
+  "line_num": "1",
+  "station_cd": "1722",
+  "num": 46
+}, {
+  "station_nm": "석계",
+  "line_num": "1",
+  "station_cd": "1018",
+  "num": 47
+}, {
+  "station_nm": "석수",
+  "line_num": "1",
+  "station_cd": "1704",
+  "num": 48
+}, {
+  "station_nm": "성균관대",
+  "line_num": "1",
+  "station_cd": "1711",
+  "num": 49
+}, {
+  "station_nm": "성환",
+  "line_num": "1",
+  "station_cd": "1725",
+  "num": 50
+}, {
+  "station_nm": "세류",
+  "line_num": "1",
+  "station_cd": "1715",
+  "num": 51
+}, {
+  "station_nm": "세마",
+  "line_num": "1",
+  "station_cd": "1717",
+  "num": 52
+}, {
+  "station_nm": "소사",
+  "line_num": "1",
+  "station_cd": "1814",
+  "num": 53
+}, {
+  "station_nm": "소요산",
+  "line_num": "1",
+  "station_cd": "1916",
+  "num": 54
+}, {
+  "station_nm": "송내",
+  "line_num": "1",
+  "station_cd": "1805",
+  "num": 55
+}, {
+  "station_nm": "송탄",
+  "line_num": "1",
+  "station_cd": "1721",
+  "num": 56
+}, {
+  "station_nm": "수원",
+  "line_num": "1",
+  "station_cd": "1713",
+  "num": 57
+}, {
+  "station_nm": "시청",
+  "line_num": "1",
+  "station_cd": "0151",
+  "num": 58
+}, {
+  "station_nm": "신길",
+  "line_num": "1",
+  "station_cd": "1032",
+  "num": 59
+}, {
+  "station_nm": "신도림",
+  "line_num": "1",
+  "station_cd": "1007",
+  "num": 60
+}, {
+  "station_nm": "신설동",
+  "line_num": "1",
+  "station_cd": "0156",
+  "num": 61
+}, {
+  "station_nm": "신이문",
+  "line_num": "1",
+  "station_cd": "1017",
+  "num": 62
+}, {
+  "station_nm": "신창",
+  "line_num": "1",
+  "station_cd": "1408",
+  "num": 63
+}, {
+  "station_nm": "쌍용나사렛대",
+  "line_num": "1",
+  "station_cd": "1402",
+  "num": 64
+}, {
+  "station_nm": "아산",
+  "line_num": "1",
+  "station_cd": "1403",
+  "num": 65
+}, {
+  "station_nm": "안양",
+  "line_num": "1",
+  "station_cd": "1706",
+  "num": 66
+}, {
+  "station_nm": "양주",
+  "line_num": "1",
+  "station_cd": "1909",
+  "num": 67
+}, {
+  "station_nm": "역곡",
+  "line_num": "1",
+  "station_cd": "1803",
+  "num": 68
+}, {
+  "station_nm": "영등포",
+  "line_num": "1",
+  "station_cd": "1006",
+  "num": 69
+}, {
+  "station_nm": "오류동",
+  "line_num": "1",
+  "station_cd": "1802",
+  "num": 70
+}, {
+  "station_nm": "오산",
+  "line_num": "1",
+  "station_cd": "1719",
+  "num": 71
+}, {
+  "station_nm": "오산대",
+  "line_num": "1",
+  "station_cd": "1718",
+  "num": 72
+}, {
+  "station_nm": "온수",
+  "line_num": "1",
+  "station_cd": "1821",
+  "num": 73
+}, {
+  "station_nm": "온양온천",
+  "line_num": "1",
+  "station_cd": "1407",
+  "num": 74
+}, {
+  "station_nm": "외대앞",
+  "line_num": "1",
+  "station_cd": "1016",
+  "num": 75
+}, {
+  "station_nm": "용산",
+  "line_num": "1",
+  "station_cd": "1003",
+  "num": 76
+}, {
+  "station_nm": "월계",
+  "line_num": "1",
+  "station_cd": "1020",
+  "num": 77
+}, {
+  "station_nm": "의왕",
+  "line_num": "1",
+  "station_cd": "1710",
+  "num": 78
+}, {
+  "station_nm": "의정부",
+  "line_num": "1",
+  "station_cd": "1906",
+  "num": 79
+}, {
+  "station_nm": "인천",
+  "line_num": "1",
+  "station_cd": "1812",
+  "num": 80
+}, {
+  "station_nm": "제기동",
+  "line_num": "1",
+  "station_cd": "0157",
+  "num": 81
+}, {
+  "station_nm": "제물포",
+  "line_num": "1",
+  "station_cd": "1810",
+  "num": 82
+}, {
+  "station_nm": "종각",
+  "line_num": "1",
+  "station_cd": "0152",
+  "num": 83
+}, {
+  "station_nm": "종로3가",
+  "line_num": "1",
+  "station_cd": "0153",
+  "num": 84
+}, {
+  "station_nm": "종로5가",
+  "line_num": "1",
+  "station_cd": "0154",
+  "num": 85
+}, {
+  "station_nm": "주안",
+  "line_num": "1",
+  "station_cd": "1809",
+  "num": 86
+}, {
+  "station_nm": "중동",
+  "line_num": "1",
+  "station_cd": "1822",
+  "num": 87
+}, {
+  "station_nm": "지제",
+  "line_num": "1",
+  "station_cd": "1723",
+  "num": 88
+}, {
+  "station_nm": "지행",
+  "line_num": "1",
+  "station_cd": "1912",
+  "num": 89
+}, {
+  "station_nm": "직산",
+  "line_num": "1",
+  "station_cd": "1726",
+  "num": 90
+}, {
+  "station_nm": "진위",
+  "line_num": "1",
+  "station_cd": "1720",
+  "num": 91
+}, {
+  "station_nm": "창동",
+  "line_num": "1",
+  "station_cd": "1022",
+  "num": 92
+}, {
+  "station_nm": "천안",
+  "line_num": "1",
+  "station_cd": "1728",
+  "num": 93
+}, {
+  "station_nm": "청량리",
+  "line_num": "1",
+  "station_cd": "0158",
+  "num": 94
+}, {
+  "station_nm": "평택",
+  "line_num": "1",
+  "station_cd": "1724",
+  "num": 95
+}, {
+  "station_nm": "화서",
+  "line_num": "1",
+  "station_cd": "1712",
+  "num": 96
+}, {
+  "station_nm": "회기",
+  "line_num": "1",
+  "station_cd": "1015",
+  "num": 97
+}, {
+  "station_nm": "회룡",
+  "line_num": "1",
+  "station_cd": "1905",
+  "num": 98
+}, {
+  "station_nm": "강남",
+  "line_num": "2",
+  "station_cd": "0222",
+  "num": 99
+}, {
+  "station_nm": "강변",
+  "line_num": "2",
+  "station_cd": "0214",
+  "num": 100
+}, {
+  "station_nm": "건대입구",
+  "line_num": "2",
+  "station_cd": "0212",
+  "num": 101
+}, {
+  "station_nm": "교대",
+  "line_num": "2",
+  "station_cd": "0223",
+  "num": 102
+}, {
+  "station_nm": "구로디지털단지",
+  "line_num": "2",
+  "station_cd": "0232",
+  "num": 103
+}, {
+  "station_nm": "구의",
+  "line_num": "2",
+  "station_cd": "0213",
+  "num": 104
+}, {
+  "station_nm": "까치산",
+  "line_num": "2",
+  "station_cd": "0200",
+  "num": 105
+}, {
+  "station_nm": "낙성대",
+  "line_num": "2",
+  "station_cd": "0227",
+  "num": 106
+}, {
+  "station_nm": "당산",
+  "line_num": "2",
+  "station_cd": "0237",
+  "num": 107
+}, {
+  "station_nm": "대림",
+  "line_num": "2",
+  "station_cd": "0233",
+  "num": 108
+}, {
+  "station_nm": "도림천",
+  "line_num": "2",
+  "station_cd": "0247",
+  "num": 109
+}, {
+  "station_nm": "동대문역사문화공원",
+  "line_num": "2",
+  "station_cd": "0205",
+  "num": 110
+}, {
+  "station_nm": "뚝섬",
+  "line_num": "2",
+  "station_cd": "0210",
+  "num": 111
+}, {
+  "station_nm": "문래",
+  "line_num": "2",
+  "station_cd": "0235",
+  "num": 112
+}, {
+  "station_nm": "방배",
+  "line_num": "2",
+  "station_cd": "0225",
+  "num": 113
+}, {
+  "station_nm": "봉천",
+  "line_num": "2",
+  "station_cd": "0229",
+  "num": 114
+}, {
+  "station_nm": "사당",
+  "line_num": "2",
+  "station_cd": "0226",
+  "num": 115
+}, {
+  "station_nm": "삼성",
+  "line_num": "2",
+  "station_cd": "0219",
+  "num": 116
+}, {
+  "station_nm": "상왕십리",
+  "line_num": "2",
+  "station_cd": "0207",
+  "num": 117
+}, {
+  "station_nm": "서울대입구",
+  "line_num": "2",
+  "station_cd": "0228",
+  "num": 118
+}, {
+  "station_nm": "서초",
+  "line_num": "2",
+  "station_cd": "0224",
+  "num": 119
+}, {
+  "station_nm": "선릉",
+  "line_num": "2",
+  "station_cd": "0220",
+  "num": 120
+}, {
+  "station_nm": "성수",
+  "line_num": "2",
+  "station_cd": "0211",
+  "num": 121
+}, {
+  "station_nm": "시청",
+  "line_num": "2",
+  "station_cd": "0201",
+  "num": 122
+}, {
+  "station_nm": "신답",
+  "line_num": "2",
+  "station_cd": "0245",
+  "num": 123
+}, {
+  "station_nm": "신당",
+  "line_num": "2",
+  "station_cd": "0206",
+  "num": 124
+}, {
+  "station_nm": "신대방",
+  "line_num": "2",
+  "station_cd": "0231",
+  "num": 125
+}, {
+  "station_nm": "신도림",
+  "line_num": "2",
+  "station_cd": "0234",
+  "num": 126
+}, {
+  "station_nm": "신림",
+  "line_num": "2",
+  "station_cd": "0230",
+  "num": 127
+}, {
+  "station_nm": "신설동",
+  "line_num": "2",
+  "station_cd": "0246",
+  "num": 128
+}, {
+  "station_nm": "신정네거리",
+  "line_num": "2",
+  "station_cd": "0249",
+  "num": 129
+}, {
+  "station_nm": "신촌",
+  "line_num": "2",
+  "station_cd": "0240",
+  "num": 130
+}, {
+  "station_nm": "아현",
+  "line_num": "2",
+  "station_cd": "0242",
+  "num": 131
+}, {
+  "station_nm": "양천구청",
+  "line_num": "2",
+  "station_cd": "0248",
+  "num": 132
+}, {
+  "station_nm": "역삼",
+  "line_num": "2",
+  "station_cd": "0221",
+  "num": 133
+}, {
+  "station_nm": "영등포구청",
+  "line_num": "2",
+  "station_cd": "0236",
+  "num": 134
+}, {
+  "station_nm": "왕십리",
+  "line_num": "2",
+  "station_cd": "0208",
+  "num": 135
+}, {
+  "station_nm": "용답",
+  "line_num": "2",
+  "station_cd": "0244",
+  "num": 136
+}, {
+  "station_nm": "용두",
+  "line_num": "2",
+  "station_cd": "0250",
+  "num": 137
+}, {
+  "station_nm": "을지로3가",
+  "line_num": "2",
+  "station_cd": "0203",
+  "num": 138
+}, {
+  "station_nm": "을지로4가",
+  "line_num": "2",
+  "station_cd": "0204",
+  "num": 139
+}, {
+  "station_nm": "을지로입구",
+  "line_num": "2",
+  "station_cd": "0202",
+  "num": 140
+}, {
+  "station_nm": "이대",
+  "line_num": "2",
+  "station_cd": "0241",
+  "num": 141
+}, {
+  "station_nm": "잠실",
+  "line_num": "2",
+  "station_cd": "0216",
+  "num": 142
+}, {
+  "station_nm": "잠실나루",
+  "line_num": "2",
+  "station_cd": "0215",
+  "num": 143
+}, {
+  "station_nm": "잠실새내",
+  "line_num": "2",
+  "station_cd": "0217",
+  "num": 144
+}, {
+  "station_nm": "종합운동장",
+  "line_num": "2",
+  "station_cd": "0218",
+  "num": 145
+}, {
+  "station_nm": "충정로",
+  "line_num": "2",
+  "station_cd": "0243",
+  "num": 146
+}, {
+  "station_nm": "한양대",
+  "line_num": "2",
+  "station_cd": "0209",
+  "num": 147
+}, {
+  "station_nm": "합정",
+  "line_num": "2",
+  "station_cd": "0238",
+  "num": 148
+}, {
+  "station_nm": "홍대입구",
+  "line_num": "2",
+  "station_cd": "0239",
+  "num": 149
+}, {
+  "station_nm": "가락시장",
+  "line_num": "3",
+  "station_cd": "0340",
+  "num": 150
+}, {
+  "station_nm": "경복궁",
+  "line_num": "3",
+  "station_cd": "0317",
+  "num": 151
+}, {
+  "station_nm": "경찰병원",
+  "line_num": "3",
+  "station_cd": "0341",
+  "num": 152
+}, {
+  "station_nm": "고속터미널",
+  "line_num": "3",
+  "station_cd": "0329",
+  "num": 153
+}, {
+  "station_nm": "교대",
+  "line_num": "3",
+  "station_cd": "0330",
+  "num": 154
+}, {
+  "station_nm": "구파발",
+  "line_num": "3",
+  "station_cd": "0310",
+  "num": 155
+}, {
+  "station_nm": "금호",
+  "line_num": "3",
+  "station_cd": "0324",
+  "num": 156
+}, {
+  "station_nm": "남부터미널",
+  "line_num": "3",
+  "station_cd": "0331",
+  "num": 157
+}, {
+  "station_nm": "녹번",
+  "line_num": "3",
+  "station_cd": "0313",
+  "num": 158
+}, {
+  "station_nm": "대곡",
+  "line_num": "3",
+  "station_cd": "1953",
+  "num": 159
+}, {
+  "station_nm": "대청",
+  "line_num": "3",
+  "station_cd": "0337",
+  "num": 160
+}, {
+  "station_nm": "대치",
+  "line_num": "3",
+  "station_cd": "0335",
+  "num": 161
+}, {
+  "station_nm": "대화",
+  "line_num": "3",
+  "station_cd": "1958",
+  "num": 162
+}, {
+  "station_nm": "도곡",
+  "line_num": "3",
+  "station_cd": "0334",
+  "num": 163
+}, {
+  "station_nm": "독립문",
+  "line_num": "3",
+  "station_cd": "0316",
+  "num": 164
+}, {
+  "station_nm": "동대입구",
+  "line_num": "3",
+  "station_cd": "0322",
+  "num": 165
+}, {
+  "station_nm": "마두",
+  "line_num": "3",
+  "station_cd": "1955",
+  "num": 166
+}, {
+  "station_nm": "매봉",
+  "line_num": "3",
+  "station_cd": "0333",
+  "num": 167
+}, {
+  "station_nm": "무악재",
+  "line_num": "3",
+  "station_cd": "0315",
+  "num": 168
+}, {
+  "station_nm": "백석",
+  "line_num": "3",
+  "station_cd": "1954",
+  "num": 169
+}, {
+  "station_nm": "불광",
+  "line_num": "3",
+  "station_cd": "0312",
+  "num": 170
+}, {
+  "station_nm": "삼송",
+  "line_num": "3",
+  "station_cd": "1950",
+  "num": 171
+}, {
+  "station_nm": "수서",
+  "line_num": "3",
+  "station_cd": "0339",
+  "num": 172
+}, {
+  "station_nm": "신사",
+  "line_num": "3",
+  "station_cd": "0327",
+  "num": 173
+}, {
+  "station_nm": "안국",
+  "line_num": "3",
+  "station_cd": "0318",
+  "num": 174
+}, {
+  "station_nm": "압구정",
+  "line_num": "3",
+  "station_cd": "0326",
+  "num": 175
+}, {
+  "station_nm": "약수",
+  "line_num": "3",
+  "station_cd": "0323",
+  "num": 176
+}, {
+  "station_nm": "양재",
+  "line_num": "3",
+  "station_cd": "0332",
+  "num": 177
+}, {
+  "station_nm": "연신내",
+  "line_num": "3",
+  "station_cd": "0311",
+  "num": 178
+}, {
+  "station_nm": "오금",
+  "line_num": "3",
+  "station_cd": "0342",
+  "num": 179
+}, {
+  "station_nm": "옥수",
+  "line_num": "3",
+  "station_cd": "0325",
+  "num": 180
+}, {
+  "station_nm": "원당",
+  "line_num": "3",
+  "station_cd": "1951",
+  "num": 181
+}, {
+  "station_nm": "원흥",
+  "line_num": "3",
+  "station_cd": "1948",
+  "num": 182
+}, {
+  "station_nm": "을지로3가",
+  "line_num": "3",
+  "station_cd": "0320",
+  "num": 183
+}, {
+  "station_nm": "일원",
+  "line_num": "3",
+  "station_cd": "0338",
+  "num": 184
+}, {
+  "station_nm": "잠원",
+  "line_num": "3",
+  "station_cd": "0328",
+  "num": 185
+}, {
+  "station_nm": "정발산",
+  "line_num": "3",
+  "station_cd": "1956",
+  "num": 186
+}, {
+  "station_nm": "종로3가",
+  "line_num": "3",
+  "station_cd": "0319",
+  "num": 187
+}, {
+  "station_nm": "주엽",
+  "line_num": "3",
+  "station_cd": "1957",
+  "num": 188
+}, {
+  "station_nm": "지축",
+  "line_num": "3",
+  "station_cd": "0309",
+  "num": 189
+}, {
+  "station_nm": "충무로",
+  "line_num": "3",
+  "station_cd": "0321",
+  "num": 190
+}, {
+  "station_nm": "학여울",
+  "line_num": "3",
+  "station_cd": "0336",
+  "num": 191
+}, {
+  "station_nm": "홍제",
+  "line_num": "3",
+  "station_cd": "0314",
+  "num": 192
+}, {
+  "station_nm": "화정",
+  "line_num": "3",
+  "station_cd": "1952",
+  "num": 193
+}, {
+  "station_nm": "경마공원",
+  "line_num": "4",
+  "station_cd": "1451",
+  "num": 194
+}, {
+  "station_nm": "고잔",
+  "line_num": "4",
+  "station_cd": "1757",
+  "num": 195
+}, {
+  "station_nm": "과천",
+  "line_num": "4",
+  "station_cd": "1453",
+  "num": 196
+}, {
+  "station_nm": "금정",
+  "line_num": "4",
+  "station_cd": "1458",
+  "num": 197
+}, {
+  "station_nm": "길음",
+  "line_num": "4",
+  "station_cd": "0417",
+  "num": 198
+}, {
+  "station_nm": "남태령",
+  "line_num": "4",
+  "station_cd": "0434",
+  "num": 199
+}, {
+  "station_nm": "노원",
+  "line_num": "4",
+  "station_cd": "0411",
+  "num": 200
+}, {
+  "station_nm": "당고개",
+  "line_num": "4",
+  "station_cd": "0409",
+  "num": 201
+}, {
+  "station_nm": "대공원",
+  "line_num": "4",
+  "station_cd": "1452",
+  "num": 202
+}, {
+  "station_nm": "대야미",
+  "line_num": "4",
+  "station_cd": "1752",
+  "num": 203
+}, {
+  "station_nm": "동대문",
+  "line_num": "4",
+  "station_cd": "0421",
+  "num": 204
+}, {
+  "station_nm": "동대문역사문화공원",
+  "line_num": "4",
+  "station_cd": "0422",
+  "num": 205
+}, {
+  "station_nm": "동작",
+  "line_num": "4",
+  "station_cd": "0431",
+  "num": 206
+}, {
+  "station_nm": "명동",
+  "line_num": "4",
+  "station_cd": "0424",
+  "num": 207
+}, {
+  "station_nm": "미아",
+  "line_num": "4",
+  "station_cd": "0415",
+  "num": 208
+}, {
+  "station_nm": "미아사거리",
+  "line_num": "4",
+  "station_cd": "0416",
+  "num": 209
+}, {
+  "station_nm": "반월",
+  "line_num": "4",
+  "station_cd": "1753",
+  "num": 210
+}, {
+  "station_nm": "범계",
+  "line_num": "4",
+  "station_cd": "1457",
+  "num": 211
+}, {
+  "station_nm": "사당",
+  "line_num": "4",
+  "station_cd": "0433",
+  "num": 212
+}, {
+  "station_nm": "산본",
+  "line_num": "4",
+  "station_cd": "1751",
+  "num": 213
+}, {
+  "station_nm": "삼각지",
+  "line_num": "4",
+  "station_cd": "0428",
+  "num": 214
+}, {
+  "station_nm": "상계",
+  "line_num": "4",
+  "station_cd": "0410",
+  "num": 215
+}, {
+  "station_nm": "상록수",
+  "line_num": "4",
+  "station_cd": "1754",
+  "num": 216
+}, {
+  "station_nm": "서울",
+  "line_num": "4",
+  "station_cd": "0426",
+  "num": 217
+}, {
+  "station_nm": "선바위",
+  "line_num": "4",
+  "station_cd": "1450",
+  "num": 218
+}, {
+  "station_nm": "성신여대입구",
+  "line_num": "4",
+  "station_cd": "0418",
+  "num": 219
+}, {
+  "station_nm": "수리산",
+  "line_num": "4",
+  "station_cd": "1763",
+  "num": 220
+}, {
+  "station_nm": "수유",
+  "line_num": "4",
+  "station_cd": "0414",
+  "num": 221
+}, {
+  "station_nm": "숙대입구",
+  "line_num": "4",
+  "station_cd": "0427",
+  "num": 222
+}, {
+  "station_nm": "신길온천",
+  "line_num": "4",
+  "station_cd": "1760",
+  "num": 223
+}, {
+  "station_nm": "신용산",
+  "line_num": "4",
+  "station_cd": "0429",
+  "num": 224
+}, {
+  "station_nm": "쌍문",
+  "line_num": "4",
+  "station_cd": "0413",
+  "num": 225
+}, {
+  "station_nm": "안산",
+  "line_num": "4",
+  "station_cd": "1759",
+  "num": 226
+}, {
+  "station_nm": "오이도",
+  "line_num": "4",
+  "station_cd": "1762",
+  "num": 227
+}, {
+  "station_nm": "이촌",
+  "line_num": "4",
+  "station_cd": "0430",
+  "num": 228
+}, {
+  "station_nm": "인덕원",
+  "line_num": "4",
+  "station_cd": "1455",
+  "num": 229
+}, {
+  "station_nm": "정부과천청사",
+  "line_num": "4",
+  "station_cd": "1454",
+  "num": 230
+}, {
+  "station_nm": "정왕",
+  "line_num": "4",
+  "station_cd": "1761",
+  "num": 231
+}, {
+  "station_nm": "중앙",
+  "line_num": "4",
+  "station_cd": "1756",
+  "num": 232
+}, {
+  "station_nm": "창동",
+  "line_num": "4",
+  "station_cd": "0412",
+  "num": 233
+}, {
+  "station_nm": "초지",
+  "line_num": "4",
+  "station_cd": "1758",
+  "num": 234
+}, {
+  "station_nm": "총신대입구이수",
+  "line_num": "4",
+  "station_cd": "0432",
+  "num": 235
+}, {
+  "station_nm": "충무로",
+  "line_num": "4",
+  "station_cd": "0423",
+  "num": 236
+}, {
+  "station_nm": "평촌",
+  "line_num": "4",
+  "station_cd": "1456",
+  "num": 237
+}, {
+  "station_nm": "한대앞",
+  "line_num": "4",
+  "station_cd": "1755",
+  "num": 238
+}, {
+  "station_nm": "한성대입구",
+  "line_num": "4",
+  "station_cd": "0419",
+  "num": 239
+}, {
+  "station_nm": "혜화",
+  "line_num": "4",
+  "station_cd": "0420",
+  "num": 240
+}, {
+  "station_nm": "회현",
+  "line_num": "4",
+  "station_cd": "0425",
+  "num": 241
+}, {
+  "station_nm": "강동",
+  "line_num": "5",
+  "station_cd": "2549",
+  "num": 242
+}, {
+  "station_nm": "개롱",
+  "line_num": "5",
+  "station_cd": "2559",
+  "num": 243
+}, {
+  "station_nm": "개화산",
+  "line_num": "5",
+  "station_cd": "2512",
+  "num": 244
+}, {
+  "station_nm": "거여",
+  "line_num": "5",
+  "station_cd": "2560",
+  "num": 245
+}, {
+  "station_nm": "고덕",
+  "line_num": "5",
+  "station_cd": "2553",
+  "num": 246
+}, {
+  "station_nm": "공덕",
+  "line_num": "5",
+  "station_cd": "2530",
+  "num": 247
+}, {
+  "station_nm": "광나루",
+  "line_num": "5",
+  "station_cd": "2547",
+  "num": 248
+}, {
+  "station_nm": "광화문",
+  "line_num": "5",
+  "station_cd": "2534",
+  "num": 249
+}, {
+  "station_nm": "군자",
+  "line_num": "5",
+  "station_cd": "2545",
+  "num": 250
+}, {
+  "station_nm": "굽은다리",
+  "line_num": "5",
+  "station_cd": "2551",
+  "num": 251
+}, {
+  "station_nm": "길동",
+  "line_num": "5",
+  "station_cd": "2550",
+  "num": 252
+}, {
+  "station_nm": "김포공항",
+  "line_num": "5",
+  "station_cd": "2513",
+  "num": 253
+}, {
+  "station_nm": "까치산",
+  "line_num": "5",
+  "station_cd": "2519",
+  "num": 254
+}, {
+  "station_nm": "답십리",
+  "line_num": "5",
+  "station_cd": "2543",
+  "num": 255
+}, {
+  "station_nm": "동대문역사문화공원",
+  "line_num": "5",
+  "station_cd": "2537",
+  "num": 256
+}, {
+  "station_nm": "둔촌동",
+  "line_num": "5",
+  "station_cd": "2555",
+  "num": 257
+}, {
+  "station_nm": "마곡",
+  "line_num": "5",
+  "station_cd": "2515",
+  "num": 258
+}, {
+  "station_nm": "마장",
+  "line_num": "5",
+  "station_cd": "2542",
+  "num": 259
+}, {
+  "station_nm": "마천",
+  "line_num": "5",
+  "station_cd": "2561",
+  "num": 260
+}, {
+  "station_nm": "마포",
+  "line_num": "5",
+  "station_cd": "2529",
+  "num": 261
+}, {
+  "station_nm": "명일",
+  "line_num": "5",
+  "station_cd": "2552",
+  "num": 262
+}, {
+  "station_nm": "목동",
+  "line_num": "5",
+  "station_cd": "2521",
+  "num": 263
+}, {
+  "station_nm": "발산",
+  "line_num": "5",
+  "station_cd": "2516",
+  "num": 264
+}, {
+  "station_nm": "방이",
+  "line_num": "5",
+  "station_cd": "2557",
+  "num": 265
+}, {
+  "station_nm": "방화",
+  "line_num": "5",
+  "station_cd": "2511",
+  "num": 266
+}, {
+  "station_nm": "상일동",
+  "line_num": "5",
+  "station_cd": "2554",
+  "num": 267
+}, {
+  "station_nm": "서대문",
+  "line_num": "5",
+  "station_cd": "2533",
+  "num": 268
+}, {
+  "station_nm": "송정",
+  "line_num": "5",
+  "station_cd": "2514",
+  "num": 269
+}, {
+  "station_nm": "신금호",
+  "line_num": "5",
+  "station_cd": "2539",
+  "num": 270
+}, {
+  "station_nm": "신길",
+  "line_num": "5",
+  "station_cd": "2526",
+  "num": 271
+}, {
+  "station_nm": "신정",
+  "line_num": "5",
+  "station_cd": "2520",
+  "num": 272
+}, {
+  "station_nm": "아차산",
+  "line_num": "5",
+  "station_cd": "2546",
+  "num": 273
+}, {
+  "station_nm": "애오개",
+  "line_num": "5",
+  "station_cd": "2531",
+  "num": 274
+}, {
+  "station_nm": "양평",
+  "line_num": "5",
+  "station_cd": "2523",
+  "num": 275
+}, {
+  "station_nm": "여의나루",
+  "line_num": "5",
+  "station_cd": "2528",
+  "num": 276
+}, {
+  "station_nm": "여의도",
+  "line_num": "5",
+  "station_cd": "2527",
+  "num": 277
+}, {
+  "station_nm": "영등포구청",
+  "line_num": "5",
+  "station_cd": "2524",
+  "num": 278
+}, {
+  "station_nm": "영등포시장",
+  "line_num": "5",
+  "station_cd": "2525",
+  "num": 279
+}, {
+  "station_nm": "오금",
+  "line_num": "5",
+  "station_cd": "2558",
+  "num": 280
+}, {
+  "station_nm": "오목교",
+  "line_num": "5",
+  "station_cd": "2522",
+  "num": 281
+}, {
+  "station_nm": "올림픽공원",
+  "line_num": "5",
+  "station_cd": "2556",
+  "num": 282
+}, {
+  "station_nm": "왕십리",
+  "line_num": "5",
+  "station_cd": "2541",
+  "num": 283
+}, {
+  "station_nm": "우장산",
+  "line_num": "5",
+  "station_cd": "2517",
+  "num": 284
+}, {
+  "station_nm": "을지로4가",
+  "line_num": "5",
+  "station_cd": "2536",
+  "num": 285
+}, {
+  "station_nm": "장한평",
+  "line_num": "5",
+  "station_cd": "2544",
+  "num": 286
+}, {
+  "station_nm": "종로3가",
+  "line_num": "5",
+  "station_cd": "2535",
+  "num": 287
+}, {
+  "station_nm": "천호",
+  "line_num": "5",
+  "station_cd": "2548",
+  "num": 288
+}, {
+  "station_nm": "청구",
+  "line_num": "5",
+  "station_cd": "2538",
+  "num": 289
+}, {
+  "station_nm": "충정로",
+  "line_num": "5",
+  "station_cd": "2532",
+  "num": 290
+}, {
+  "station_nm": "행당",
+  "line_num": "5",
+  "station_cd": "2540",
+  "num": 291
+}, {
+  "station_nm": "화곡",
+  "line_num": "5",
+  "station_cd": "2518",
+  "num": 292
+}, {
+  "station_nm": "고려대",
+  "line_num": "6",
+  "station_cd": "2641",
+  "num": 293
+}, {
+  "station_nm": "공덕",
+  "line_num": "6",
+  "station_cd": "2627",
+  "num": 294
+}, {
+  "station_nm": "광흥창",
+  "line_num": "6",
+  "station_cd": "2625",
+  "num": 295
+}, {
+  "station_nm": "구산",
+  "line_num": "6",
+  "station_cd": "2616",
+  "num": 296
+}, {
+  "station_nm": "녹사평",
+  "line_num": "6",
+  "station_cd": "2630",
+  "num": 297
+}, {
+  "station_nm": "대흥",
+  "line_num": "6",
+  "station_cd": "2626",
+  "num": 298
+}, {
+  "station_nm": "독바위",
+  "line_num": "6",
+  "station_cd": "2614",
+  "num": 299
+}, {
+  "station_nm": "돌곶이",
+  "line_num": "6",
+  "station_cd": "2644",
+  "num": 300
+}, {
+  "station_nm": "동묘앞",
+  "line_num": "6",
+  "station_cd": "2637",
+  "num": 301
+}, {
+  "station_nm": "디지털미디어시티",
+  "line_num": "6",
+  "station_cd": "2619",
+  "num": 302
+}, {
+  "station_nm": "마포구청",
+  "line_num": "6",
+  "station_cd": "2621",
+  "num": 303
+}, {
+  "station_nm": "망원",
+  "line_num": "6",
+  "station_cd": "2622",
+  "num": 304
+}, {
+  "station_nm": "버티고개",
+  "line_num": "6",
+  "station_cd": "2633",
+  "num": 305
+}, {
+  "station_nm": "보문",
+  "line_num": "6",
+  "station_cd": "2639",
+  "num": 306
+}, {
+  "station_nm": "봉화산",
+  "line_num": "6",
+  "station_cd": "2648",
+  "num": 307
+}, {
+  "station_nm": "불광",
+  "line_num": "6",
+  "station_cd": "2613",
+  "num": 308
+}, {
+  "station_nm": "삼각지",
+  "line_num": "6",
+  "station_cd": "2629",
+  "num": 309
+}, {
+  "station_nm": "상수",
+  "line_num": "6",
+  "station_cd": "2624",
+  "num": 310
+}, {
+  "station_nm": "상월곡",
+  "line_num": "6",
+  "station_cd": "2643",
+  "num": 311
+}, {
+  "station_nm": "새절",
+  "line_num": "6",
+  "station_cd": "2617",
+  "num": 312
+}, {
+  "station_nm": "석계",
+  "line_num": "6",
+  "station_cd": "2645",
+  "num": 313
+}, {
+  "station_nm": "신당",
+  "line_num": "6",
+  "station_cd": "2636",
+  "num": 314
+}, {
+  "station_nm": "안암",
+  "line_num": "6",
+  "station_cd": "2640",
+  "num": 315
+}, {
+  "station_nm": "약수",
+  "line_num": "6",
+  "station_cd": "2634",
+  "num": 316
+}, {
+  "station_nm": "역촌",
+  "line_num": "6",
+  "station_cd": "2612",
+  "num": 317
+}, {
+  "station_nm": "연신내",
+  "line_num": "6",
+  "station_cd": "2615",
+  "num": 318
+}, {
+  "station_nm": "월곡",
+  "line_num": "6",
+  "station_cd": "2642",
+  "num": 319
+}, {
+  "station_nm": "월드컵경기장",
+  "line_num": "6",
+  "station_cd": "2620",
+  "num": 320
+}, {
+  "station_nm": "응암",
+  "line_num": "6",
+  "station_cd": "2611",
+  "num": 321
+}, {
+  "station_nm": "이태원",
+  "line_num": "6",
+  "station_cd": "2631",
+  "num": 322
+}, {
+  "station_nm": "증산",
+  "line_num": "6",
+  "station_cd": "2618",
+  "num": 323
+}, {
+  "station_nm": "창신",
+  "line_num": "6",
+  "station_cd": "2638",
+  "num": 324
+}, {
+  "station_nm": "청구",
+  "line_num": "6",
+  "station_cd": "2635",
+  "num": 325
+}, {
+  "station_nm": "태릉입구",
+  "line_num": "6",
+  "station_cd": "2646",
+  "num": 326
+}, {
+  "station_nm": "한강진",
+  "line_num": "6",
+  "station_cd": "2632",
+  "num": 327
+}, {
+  "station_nm": "합정",
+  "line_num": "6",
+  "station_cd": "2623",
+  "num": 328
+}, {
+  "station_nm": "화랑대",
+  "line_num": "6",
+  "station_cd": "2647",
+  "num": 329
+}, {
+  "station_nm": "효창공원앞",
+  "line_num": "6",
+  "station_cd": "2628",
+  "num": 330
+}, {
+  "station_nm": "가산디지털단지",
+  "line_num": "7",
+  "station_cd": "2748",
+  "num": 331
+}, {
+  "station_nm": "강남구청",
+  "line_num": "7",
+  "station_cd": "2732",
+  "num": 332
+}, {
+  "station_nm": "건대입구",
+  "line_num": "7",
+  "station_cd": "2729",
+  "num": 333
+}, {
+  "station_nm": "고속터미널",
+  "line_num": "7",
+  "station_cd": "2736",
+  "num": 334
+}, {
+  "station_nm": "공릉",
+  "line_num": "7",
+  "station_cd": "2718",
+  "num": 335
+}, {
+  "station_nm": "광명사거리",
+  "line_num": "7",
+  "station_cd": "2750",
+  "num": 336
+}, {
+  "station_nm": "군자",
+  "line_num": "7",
+  "station_cd": "2727",
+  "num": 337
+}, {
+  "station_nm": "굴포천",
+  "line_num": "7",
+  "station_cd": "2760",
+  "num": 338
+}, {
+  "station_nm": "까치울",
+  "line_num": "7",
+  "station_cd": "2753",
+  "num": 339
+}, {
+  "station_nm": "남구로",
+  "line_num": "7",
+  "station_cd": "2747",
+  "num": 340
+}, {
+  "station_nm": "남성",
+  "line_num": "7",
+  "station_cd": "2739",
+  "num": 341
+}, {
+  "station_nm": "내방",
+  "line_num": "7",
+  "station_cd": "2737",
+  "num": 342
+}, {
+  "station_nm": "노원",
+  "line_num": "7",
+  "station_cd": "2715",
+  "num": 343
+}, {
+  "station_nm": "논현",
+  "line_num": "7",
+  "station_cd": "2734",
+  "num": 344
+}, {
+  "station_nm": "대림",
+  "line_num": "7",
+  "station_cd": "2746",
+  "num": 345
+}, {
+  "station_nm": "도봉산",
+  "line_num": "7",
+  "station_cd": "2712",
+  "num": 346
+}, {
+  "station_nm": "뚝섬유원지",
+  "line_num": "7",
+  "station_cd": "2730",
+  "num": 347
+}, {
+  "station_nm": "마들",
+  "line_num": "7",
+  "station_cd": "2714",
+  "num": 348
+}, {
+  "station_nm": "먹골",
+  "line_num": "7",
+  "station_cd": "2720",
+  "num": 349
+}, {
+  "station_nm": "면목",
+  "line_num": "7",
+  "station_cd": "2723",
+  "num": 350
+}, {
+  "station_nm": "반포",
+  "line_num": "7",
+  "station_cd": "2735",
+  "num": 351
+}, {
+  "station_nm": "보라매",
+  "line_num": "7",
+  "station_cd": "2744",
+  "num": 352
+}, {
+  "station_nm": "부천시청",
+  "line_num": "7",
+  "station_cd": "2757",
+  "num": 353
+}, {
+  "station_nm": "부천종합운동장",
+  "line_num": "7",
+  "station_cd": "2754",
+  "num": 354
+}, {
+  "station_nm": "부평구청",
+  "line_num": "7",
+  "station_cd": "2761",
+  "num": 355
+}, {
+  "station_nm": "사가정",
+  "line_num": "7",
+  "station_cd": "2724",
+  "num": 356
+}, {
+  "station_nm": "삼산체육관",
+  "line_num": "7",
+  "station_cd": "2759",
+  "num": 357
+}, {
+  "station_nm": "상도",
+  "line_num": "7",
+  "station_cd": "2741",
+  "num": 358
+}, {
+  "station_nm": "상동",
+  "line_num": "7",
+  "station_cd": "2758",
+  "num": 359
+}, {
+  "station_nm": "상봉",
+  "line_num": "7",
+  "station_cd": "2722",
+  "num": 360
+}, {
+  "station_nm": "수락산",
+  "line_num": "7",
+  "station_cd": "2713",
+  "num": 361
+}, {
+  "station_nm": "숭실대입구",
+  "line_num": "7",
+  "station_cd": "2740",
+  "num": 362
+}, {
+  "station_nm": "신대방삼거리",
+  "line_num": "7",
+  "station_cd": "2743",
+  "num": 363
+}, {
+  "station_nm": "신중동",
+  "line_num": "7",
+  "station_cd": "2756",
+  "num": 364
+}, {
+  "station_nm": "신풍",
+  "line_num": "7",
+  "station_cd": "2745",
+  "num": 365
+}, {
+  "station_nm": "어린이대공원",
+  "line_num": "7",
+  "station_cd": "2728",
+  "num": 366
+}, {
+  "station_nm": "온수",
+  "line_num": "7",
+  "station_cd": "2752",
+  "num": 367
+}, {
+  "station_nm": "용마산",
+  "line_num": "7",
+  "station_cd": "2725",
+  "num": 368
+}, {
+  "station_nm": "장승배기",
+  "line_num": "7",
+  "station_cd": "2742",
+  "num": 369
+}, {
+  "station_nm": "장암",
+  "line_num": "7",
+  "station_cd": "2711",
+  "num": 370
+}, {
+  "station_nm": "중계",
+  "line_num": "7",
+  "station_cd": "2716",
+  "num": 371
+}, {
+  "station_nm": "중곡",
+  "line_num": "7",
+  "station_cd": "2726",
+  "num": 372
+}, {
+  "station_nm": "중화",
+  "line_num": "7",
+  "station_cd": "2721",
+  "num": 373
+}, {
+  "station_nm": "천왕",
+  "line_num": "7",
+  "station_cd": "2751",
+  "num": 374
+}, {
+  "station_nm": "철산",
+  "line_num": "7",
+  "station_cd": "2749",
+  "num": 375
+}, {
+  "station_nm": "청담",
+  "line_num": "7",
+  "station_cd": "2731",
+  "num": 376
+}, {
+  "station_nm": "총신대입구이수",
+  "line_num": "7",
+  "station_cd": "2738",
+  "num": 377
+}, {
+  "station_nm": "춘의",
+  "line_num": "7",
+  "station_cd": "2755",
+  "num": 378
+}, {
+  "station_nm": "태릉입구",
+  "line_num": "7",
+  "station_cd": "2719",
+  "num": 379
+}, {
+  "station_nm": "하계",
+  "line_num": "7",
+  "station_cd": "2717",
+  "num": 380
+}, {
+  "station_nm": "학동",
+  "line_num": "7",
+  "station_cd": "2733",
+  "num": 381
+}, {
+  "station_nm": "가락시장",
+  "line_num": "8",
+  "station_cd": "2818",
+  "num": 382
+}, {
+  "station_nm": "강동구청",
+  "line_num": "8",
+  "station_cd": "2813",
+  "num": 383
+}, {
+  "station_nm": "남한산성입구",
+  "line_num": "8",
+  "station_cd": "2823",
+  "num": 384
+}, {
+  "station_nm": "단대오거리",
+  "line_num": "8",
+  "station_cd": "2824",
+  "num": 385
+}, {
+  "station_nm": "모란",
+  "line_num": "8",
+  "station_cd": "2827",
+  "num": 386
+}, {
+  "station_nm": "몽촌토성",
+  "line_num": "8",
+  "station_cd": "2814",
+  "num": 387
+}, {
+  "station_nm": "문정",
+  "line_num": "8",
+  "station_cd": "2819",
+  "num": 388
+}, {
+  "station_nm": "복정",
+  "line_num": "8",
+  "station_cd": "2821",
+  "num": 389
+}, {
+  "station_nm": "산성",
+  "line_num": "8",
+  "station_cd": "2822",
+  "num": 390
+}, {
+  "station_nm": "석촌",
+  "line_num": "8",
+  "station_cd": "2816",
+  "num": 391
+}, {
+  "station_nm": "송파",
+  "line_num": "8",
+  "station_cd": "2817",
+  "num": 392
+}, {
+  "station_nm": "수진",
+  "line_num": "8",
+  "station_cd": "2826",
+  "num": 393
+}, {
+  "station_nm": "신흥",
+  "line_num": "8",
+  "station_cd": "2825",
+  "num": 394
+}, {
+  "station_nm": "암사",
+  "line_num": "8",
+  "station_cd": "2811",
+  "num": 395
+}, {
+  "station_nm": "잠실",
+  "line_num": "8",
+  "station_cd": "2815",
+  "num": 396
+}, {
+  "station_nm": "장지",
+  "line_num": "8",
+  "station_cd": "2820",
+  "num": 397
+}, {
+  "station_nm": "천호",
+  "line_num": "8",
+  "station_cd": "2812",
+  "num": 398
+}, {
+  "station_nm": "가양",
+  "line_num": "9",
+  "station_cd": "4107",
+  "num": 399
+}, {
+  "station_nm": "개화",
+  "line_num": "9",
+  "station_cd": "4101",
+  "num": 400
+}, {
+  "station_nm": "고속터미널",
+  "line_num": "9",
+  "station_cd": "4123",
+  "num": 401
+}, {
+  "station_nm": "공항시장",
+  "line_num": "9",
+  "station_cd": "4103",
+  "num": 402
+}, {
+  "station_nm": "구반포",
+  "line_num": "9",
+  "station_cd": "4121",
+  "num": 403
+}, {
+  "station_nm": "국회의사당",
+  "line_num": "9",
+  "station_cd": "4114",
+  "num": 404
+}, {
+  "station_nm": "김포공항",
+  "line_num": "9",
+  "station_cd": "4102",
+  "num": 405
+}, {
+  "station_nm": "노들",
+  "line_num": "9",
+  "station_cd": "4118",
+  "num": 406
+}, {
+  "station_nm": "노량진",
+  "line_num": "9",
+  "station_cd": "4117",
+  "num": 407
+}, {
+  "station_nm": "당산",
+  "line_num": "9",
+  "station_cd": "4113",
+  "num": 408
+}, {
+  "station_nm": "동작",
+  "line_num": "9",
+  "station_cd": "4120",
+  "num": 409
+}, {
+  "station_nm": "등촌",
+  "line_num": "9",
+  "station_cd": "4109",
+  "num": 410
+}, {
+  "station_nm": "마곡나루",
+  "line_num": "9",
+  "station_cd": "4105",
+  "num": 411
+}, {
+  "station_nm": "봉은사",
+  "line_num": "9",
+  "station_cd": "4129",
+  "num": 412
+}, {
+  "station_nm": "사평",
+  "line_num": "9",
+  "station_cd": "4124",
+  "num": 413
+}, {
+  "station_nm": "삼성중앙",
+  "line_num": "9",
+  "station_cd": "4128",
+  "num": 414
+}, {
+  "station_nm": "샛강",
+  "line_num": "9",
+  "station_cd": "4116",
+  "num": 415
+}, {
+  "station_nm": "선유도",
+  "line_num": "9",
+  "station_cd": "4112",
+  "num": 416
+}, {
+  "station_nm": "선정릉",
+  "line_num": "9",
+  "station_cd": "4127",
+  "num": 417
+}, {
+  "station_nm": "신논현",
+  "line_num": "9",
+  "station_cd": "4125",
+  "num": 418
+}, {
+  "station_nm": "신목동",
+  "line_num": "9",
+  "station_cd": "4111",
+  "num": 419
+}, {
+  "station_nm": "신반포",
+  "line_num": "9",
+  "station_cd": "4122",
+  "num": 420
+}, {
+  "station_nm": "신방화",
+  "line_num": "9",
+  "station_cd": "4104",
+  "num": 421
+}, {
+  "station_nm": "양천향교",
+  "line_num": "9",
+  "station_cd": "4106",
+  "num": 422
+}, {
+  "station_nm": "언주",
+  "line_num": "9",
+  "station_cd": "4126",
+  "num": 423
+}, {
+  "station_nm": "여의도",
+  "line_num": "9",
+  "station_cd": "4115",
+  "num": 424
+}, {
+  "station_nm": "염창",
+  "line_num": "9",
+  "station_cd": "4110",
+  "num": 425
+}, {
+  "station_nm": "종합운동장",
+  "line_num": "9",
+  "station_cd": "4130",
+  "num": 426
+}, {
+  "station_nm": "삼전",
+  "line_num": "9",
+  "station_cd": "4131",
+  "num": 427
+}, {
+  "station_nm": "석촌고분",
+  "line_num": "9",
+  "station_cd": "4132",
+  "num": 428
+}, {
+  "station_nm": "석촌",
+  "line_num": "9",
+  "station_cd": "4133",
+  "num": 429
+}, {
+  "station_nm": "송파나루",
+  "line_num": "9",
+  "station_cd": "4134",
+  "num": 430
+}, {
+  "station_nm": "한성백제",
+  "line_num": "9",
+  "station_cd": "4135",
+  "num": 431
+}, {
+  "station_nm": "올림픽공원",
+  "line_num": "9",
+  "station_cd": "4136",
+  "num": 432
+}, {
+  "station_nm": "둔촌오륜",
+  "line_num": "9",
+  "station_cd": "4137",
+  "num": 433
+}, {
+  "station_nm": "중앙보훈병원",
+  "line_num": "9",
+  "station_cd": "4138",
+  "num": 434
+}, {
+  "station_nm": "증미",
+  "line_num": "9",
+  "station_cd": "4108",
+  "num": 435
+}, {
+  "station_nm": "흑석",
+  "line_num": "9",
+  "station_cd": "4119",
+  "num": 436
+}, {
+  "station_nm": "검암",
+  "line_num": "A",
+  "station_cd": "4209",
+  "num": 437
+}, {
+  "station_nm": "계양",
+  "line_num": "A",
+  "station_cd": "4208",
+  "num": 438
+}, {
+  "station_nm": "공덕",
+  "line_num": "A",
+  "station_cd": "4202",
+  "num": 439
+}, {
+  "station_nm": "공항화물청사",
+  "line_num": "A",
+  "station_cd": "4212",
+  "num": 440
+}, {
+  "station_nm": "김포공항",
+  "line_num": "A",
+  "station_cd": "4207",
+  "num": 441
+}, {
+  "station_nm": "마곡나루",
+  "line_num": "A",
+  "station_cd": "4206",
+  "num": 442
+}, {
+  "station_nm": "디지털미디어시티",
+  "line_num": "A",
+  "station_cd": "4204",
+  "num": 443
+}, {
+  "station_nm": "서울",
+  "line_num": "A",
+  "station_cd": "4201",
+  "num": 444
+}, {
+  "station_nm": "영종",
+  "line_num": "A",
+  "station_cd": "4217",
+  "num": 445
+}, {
+  "station_nm": "운서",
+  "line_num": "A",
+  "station_cd": "4211",
+  "num": 446
+}, {
+  "station_nm": "인천공항일터미널",
+  "line_num": "A",
+  "station_cd": "4213",
+  "num": 447
+}, {
+  "station_nm": "인천공항이터미널",
+  "line_num": "A",
+  "station_cd": "4215",
+  "num": 448
+}, {
+  "station_nm": "청라국제도시",
+  "line_num": "A",
+  "station_cd": "4210",
+  "num": 449
+}, {
+  "station_nm": "홍대입구",
+  "line_num": "A",
+  "station_cd": "4203",
+  "num": 450
+}, {
+  "station_nm": "가천대",
+  "line_num": "B",
+  "station_cd": "1851",
+  "num": 451
+}, {
+  "station_nm": "강남구청",
+  "line_num": "B",
+  "station_cd": "1849",
+  "num": 452
+}, {
+  "station_nm": "개포동",
+  "line_num": "B",
+  "station_cd": "1027",
+  "num": 453
+}, {
+  "station_nm": "구룡",
+  "line_num": "B",
+  "station_cd": "1026",
+  "num": 454
+}, {
+  "station_nm": "구성",
+  "line_num": "B",
+  "station_cd": "1863",
+  "num": 455
+}, {
+  "station_nm": "기흥",
+  "line_num": "B",
+  "station_cd": "1865",
+  "num": 456
+}, {
+  "station_nm": "대모산입구",
+  "line_num": "B",
+  "station_cd": "1028",
+  "num": 457
+}, {
+  "station_nm": "도곡",
+  "line_num": "B",
+  "station_cd": "1025",
+  "num": 458
+}, {
+  "station_nm": "망포",
+  "line_num": "B",
+  "station_cd": "1869",
+  "num": 459
+}, {
+  "station_nm": "매교",
+  "line_num": "B",
+  "station_cd": "1872",
+  "num": 460
+}, {
+  "station_nm": "매탄권선",
+  "line_num": "B",
+  "station_cd": "1870",
+  "num": 461
+}, {
+  "station_nm": "모란",
+  "line_num": "B",
+  "station_cd": "1853",
+  "num": 462
+}, {
+  "station_nm": "미금",
+  "line_num": "B",
+  "station_cd": "1858",
+  "num": 463
+}, {
+  "station_nm": "보정",
+  "line_num": "B",
+  "station_cd": "1861",
+  "num": 464
+}, {
+  "station_nm": "복정",
+  "line_num": "B",
+  "station_cd": "1031",
+  "num": 465
+}, {
+  "station_nm": "상갈",
+  "line_num": "B",
+  "station_cd": "1866",
+  "num": 466
+}, {
+  "station_nm": "서울숲",
+  "line_num": "B",
+  "station_cd": "1847",
+  "num": 467
+}, {
+  "station_nm": "서현",
+  "line_num": "B",
+  "station_cd": "1855",
+  "num": 468
+}, {
+  "station_nm": "선릉",
+  "line_num": "B",
+  "station_cd": "1023",
+  "num": 469
+}, {
+  "station_nm": "선정릉",
+  "line_num": "B",
+  "station_cd": "1850",
+  "num": 470
+}, {
+  "station_nm": "수내",
+  "line_num": "B",
+  "station_cd": "1856",
+  "num": 471
+}, {
+  "station_nm": "수서",
+  "line_num": "B",
+  "station_cd": "1030",
+  "num": 472
+}, {
+  "station_nm": "수원",
+  "line_num": "B",
+  "station_cd": "1846",
+  "num": 473
+}, {
+  "station_nm": "수원시청",
+  "line_num": "B",
+  "station_cd": "1871",
+  "num": 474
+}, {
+  "station_nm": "신갈",
+  "line_num": "B",
+  "station_cd": "1864",
+  "num": 475
+}, {
+  "station_nm": "압구정로데오",
+  "line_num": "B",
+  "station_cd": "1848",
+  "num": 476
+}, {
+  "station_nm": "야탑",
+  "line_num": "B",
+  "station_cd": "1854",
+  "num": 477
+}, {
+  "station_nm": "영통",
+  "line_num": "B",
+  "station_cd": "1868",
+  "num": 478
+}, {
+  "station_nm": "오리",
+  "line_num": "B",
+  "station_cd": "1859",
+  "num": 479
+}, {
+  "station_nm": "왕십리",
+  "line_num": "B",
+  "station_cd": "102C",
+  "num": 480
+}, {
+  "station_nm": "이매",
+  "line_num": "B",
+  "station_cd": "1860",
+  "num": 481
+}, {
+  "station_nm": "정자",
+  "line_num": "B",
+  "station_cd": "1857",
+  "num": 482
+}, {
+  "station_nm": "죽전",
+  "line_num": "B",
+  "station_cd": "1862",
+  "num": 483
+}, {
+  "station_nm": "청명",
+  "line_num": "B",
+  "station_cd": "1867",
+  "num": 484
+}, {
+  "station_nm": "태평",
+  "line_num": "B",
+  "station_cd": "1852",
+  "num": 485
+}, {
+  "station_nm": "한티",
+  "line_num": "B",
+  "station_cd": "1024",
+  "num": 486
+}, {
+  "station_nm": "강남대",
+  "line_num": "E",
+  "station_cd": "4502",
+  "num": 487
+}, {
+  "station_nm": "고진",
+  "line_num": "E",
+  "station_cd": "4513",
+  "num": 488
+}, {
+  "station_nm": "기흥",
+  "line_num": "E",
+  "station_cd": "4501",
+  "num": 489
+}, {
+  "station_nm": "김량장",
+  "line_num": "E",
+  "station_cd": "4511",
+  "num": 490
+}, {
+  "station_nm": "동백",
+  "line_num": "E",
+  "station_cd": "4505",
+  "num": 491
+}, {
+  "station_nm": "둔전",
+  "line_num": "E",
+  "station_cd": "4515",
+  "num": 492
+}, {
+  "station_nm": "명지대",
+  "line_num": "E",
+  "station_cd": "4510",
+  "num": 493
+}, {
+  "station_nm": "보평",
+  "line_num": "E",
+  "station_cd": "4514",
+  "num": 494
+}, {
+  "station_nm": "삼가",
+  "line_num": "E",
+  "station_cd": "4508",
+  "num": 495
+}, {
+  "station_nm": "시청용인대",
+  "line_num": "E",
+  "station_cd": "4509",
+  "num": 496
+}, {
+  "station_nm": "어정",
+  "line_num": "E",
+  "station_cd": "4504",
+  "num": 497
+}, {
+  "station_nm": "운동장송담대",
+  "line_num": "E",
+  "station_cd": "4512",
+  "num": 498
+}, {
+  "station_nm": "전대에버랜드",
+  "line_num": "E",
+  "station_cd": "4517",
+  "num": 499
+}, {
+  "station_nm": "지석",
+  "line_num": "E",
+  "station_cd": "4503",
+  "num": 500
+}, {
+  "station_nm": "초당",
+  "line_num": "E",
+  "station_cd": "4506",
+  "num": 501
+}, {
+  "station_nm": "가평",
+  "line_num": "G",
+  "station_cd": "1323",
+  "num": 502
+}, {
+  "station_nm": "갈매",
+  "line_num": "G",
+  "station_cd": "1312",
+  "num": 503
+}, {
+  "station_nm": "강촌",
+  "line_num": "G",
+  "station_cd": "1326",
+  "num": 504
+}, {
+  "station_nm": "광운대",
+  "line_num": "G",
+  "station_cd": "1305",
+  "num": 505
+}, {
+  "station_nm": "굴봉산",
+  "line_num": "G",
+  "station_cd": "1324",
+  "num": 506
+}, {
+  "station_nm": "금곡",
+  "line_num": "G",
+  "station_cd": "1316",
+  "num": 507
+}, {
+  "station_nm": "김유정",
+  "line_num": "G",
+  "station_cd": "1327",
+  "num": 508
+}, {
+  "station_nm": "남춘천",
+  "line_num": "G",
+  "station_cd": "1328",
+  "num": 509
+}, {
+  "station_nm": "대성리",
+  "line_num": "G",
+  "station_cd": "1320",
+  "num": 510
+}, {
+  "station_nm": "마석",
+  "line_num": "G",
+  "station_cd": "1319",
+  "num": 511
+}, {
+  "station_nm": "망우",
+  "line_num": "G",
+  "station_cd": "1310",
+  "num": 512
+}, {
+  "station_nm": "백양리",
+  "line_num": "G",
+  "station_cd": "1325",
+  "num": 513
+}, {
+  "station_nm": "별내",
+  "line_num": "G",
+  "station_cd": "1313",
+  "num": 514
+}, {
+  "station_nm": "사릉",
+  "line_num": "G",
+  "station_cd": "1315",
+  "num": 515
+}, {
+  "station_nm": "상봉",
+  "line_num": "G",
+  "station_cd": "1309",
+  "num": 516
+}, {
+  "station_nm": "상천",
+  "line_num": "G",
+  "station_cd": "1322",
+  "num": 517
+}, {
+  "station_nm": "신내",
+  "line_num": "G",
+  "station_cd": "1311",
+  "num": 518
+}, {
+  "station_nm": "중랑",
+  "line_num": "G",
+  "station_cd": "1308",
+  "num": 519
+}, {
+  "station_nm": "천마산",
+  "line_num": "G",
+  "station_cd": "1318",
+  "num": 520
+}, {
+  "station_nm": "청량리",
+  "line_num": "G",
+  "station_cd": "1306",
+  "num": 521
+}, {
+  "station_nm": "청평",
+  "line_num": "G",
+  "station_cd": "1321",
+  "num": 522
+}, {
+  "station_nm": "춘천",
+  "line_num": "G",
+  "station_cd": "1329",
+  "num": 523
+}, {
+  "station_nm": "퇴계원",
+  "line_num": "G",
+  "station_cd": "1314",
+  "num": 524
+}, {
+  "station_nm": "평내호평",
+  "line_num": "G",
+  "station_cd": "1317",
+  "num": 525
+}, {
+  "station_nm": "회기",
+  "line_num": "G",
+  "station_cd": "1307",
+  "num": 526
+}, {
+  "station_nm": "간석오거리",
+  "line_num": "I",
+  "station_cd": "3123",
+  "num": 527
+}, {
+  "station_nm": "갈산",
+  "line_num": "I",
+  "station_cd": "3117",
+  "num": 528
+}, {
+  "station_nm": "경인교대입구",
+  "line_num": "I",
+  "station_cd": "3115",
+  "num": 529
+}, {
+  "station_nm": "계산",
+  "line_num": "I",
+  "station_cd": "3114",
+  "num": 530
+}, {
+  "station_nm": "계양",
+  "line_num": "I",
+  "station_cd": "3110",
+  "num": 531
+}, {
+  "station_nm": "국제업무지구",
+  "line_num": "I",
+  "station_cd": "3138",
+  "num": 532
+}, {
+  "station_nm": "귤현",
+  "line_num": "I",
+  "station_cd": "3111",
+  "num": 533
+}, {
+  "station_nm": "동막",
+  "line_num": "I",
+  "station_cd": "3132",
+  "num": 534
+}, {
+  "station_nm": "동수",
+  "line_num": "I",
+  "station_cd": "3121",
+  "num": 535
+}, {
+  "station_nm": "동춘",
+  "line_num": "I",
+  "station_cd": "3131",
+  "num": 536
+}, {
+  "station_nm": "문학경기장",
+  "line_num": "I",
+  "station_cd": "3127",
+  "num": 537
+}, {
+  "station_nm": "박촌",
+  "line_num": "I",
+  "station_cd": "3112",
+  "num": 538
+}, {
+  "station_nm": "부평",
+  "line_num": "I",
+  "station_cd": "3120",
+  "num": 539
+}, {
+  "station_nm": "부평구청",
+  "line_num": "I",
+  "station_cd": "3118",
+  "num": 540
+}, {
+  "station_nm": "부평삼거리",
+  "line_num": "I",
+  "station_cd": "3122",
+  "num": 541
+}, {
+  "station_nm": "부평시장",
+  "line_num": "I",
+  "station_cd": "3119",
+  "num": 542
+}, {
+  "station_nm": "선학",
+  "line_num": "I",
+  "station_cd": "3128",
+  "num": 543
+}, {
+  "station_nm": "센트럴파크",
+  "line_num": "I",
+  "station_cd": "3137",
+  "num": 544
+}, {
+  "station_nm": "신연수",
+  "line_num": "I",
+  "station_cd": "3129",
+  "num": 545
+}, {
+  "station_nm": "예술회관",
+  "line_num": "I",
+  "station_cd": "3125",
+  "num": 546
+}, {
+  "station_nm": "원인재",
+  "line_num": "I",
+  "station_cd": "3130",
+  "num": 547
+}, {
+  "station_nm": "인천대입구",
+  "line_num": "I",
+  "station_cd": "3136",
+  "num": 548
+}, {
+  "station_nm": "인천시청",
+  "line_num": "I",
+  "station_cd": "3124",
+  "num": 549
+}, {
+  "station_nm": "인천터미널",
+  "line_num": "I",
+  "station_cd": "3126",
+  "num": 550
+}, {
+  "station_nm": "임학",
+  "line_num": "I",
+  "station_cd": "3113",
+  "num": 551
+}, {
+  "station_nm": "작전",
+  "line_num": "I",
+  "station_cd": "3116",
+  "num": 552
+}, {
+  "station_nm": "지식정보단지",
+  "line_num": "I",
+  "station_cd": "3135",
+  "num": 553
+}, {
+  "station_nm": "캠퍼스타운",
+  "line_num": "I",
+  "station_cd": "3133",
+  "num": 554
+}, {
+  "station_nm": "테크노파크",
+  "line_num": "I",
+  "station_cd": "3134",
+  "num": 555
+}, {
+  "station_nm": "가재울",
+  "line_num": "I2",
+  "station_cd": "3216",
+  "num": 556
+}, {
+  "station_nm": "가정",
+  "line_num": "I2",
+  "station_cd": "3211",
+  "num": 557
+}, {
+  "station_nm": "가정중앙시장",
+  "line_num": "I2",
+  "station_cd": "3212",
+  "num": 558
+}, {
+  "station_nm": "검단사거리",
+  "line_num": "I2",
+  "station_cd": "3203",
+  "num": 559
+}, {
+  "station_nm": "검단오류",
+  "line_num": "I2",
+  "station_cd": "3201",
+  "num": 560
+}, {
+  "station_nm": "검바위",
+  "line_num": "I2",
+  "station_cd": "3208",
+  "num": 561
+}, {
+  "station_nm": "검암",
+  "line_num": "I2",
+  "station_cd": "3207",
+  "num": 562
+}, {
+  "station_nm": "남동구청",
+  "line_num": "I2",
+  "station_cd": "3225",
+  "num": 563
+}, {
+  "station_nm": "독정",
+  "line_num": "I2",
+  "station_cd": "3206",
+  "num": 564
+}, {
+  "station_nm": "마전",
+  "line_num": "I2",
+  "station_cd": "3204",
+  "num": 565
+}, {
+  "station_nm": "만수",
+  "line_num": "I2",
+  "station_cd": "3224",
+  "num": 566
+}, {
+  "station_nm": "모래내시장",
+  "line_num": "I2",
+  "station_cd": "3223",
+  "num": 567
+}, {
+  "station_nm": "서구청",
+  "line_num": "I2",
+  "station_cd": "3210",
+  "num": 568
+}, {
+  "station_nm": "서부여성회관",
+  "line_num": "I2",
+  "station_cd": "3214",
+  "num": 569
+}, {
+  "station_nm": "석남",
+  "line_num": "I2",
+  "station_cd": "3213",
+  "num": 570
+}, {
+  "station_nm": "석바위시장",
+  "line_num": "I2",
+  "station_cd": "3220",
+  "num": 571
+}, {
+  "station_nm": "석천사거리",
+  "line_num": "I2",
+  "station_cd": "3222",
+  "num": 572
+}, {
+  "station_nm": "시민공원",
+  "line_num": "I2",
+  "station_cd": "3219",
+  "num": 573
+}, {
+  "station_nm": "아시아드경기장",
+  "line_num": "I2",
+  "station_cd": "3209",
+  "num": 574
+}, {
+  "station_nm": "완정",
+  "line_num": "I2",
+  "station_cd": "3205",
+  "num": 575
+}, {
+  "station_nm": "왕길",
+  "line_num": "I2",
+  "station_cd": "3202",
+  "num": 576
+}, {
+  "station_nm": "운연",
+  "line_num": "I2",
+  "station_cd": "3227",
+  "num": 577
+}, {
+  "station_nm": "인천가좌",
+  "line_num": "I2",
+  "station_cd": "3215",
+  "num": 578
+}, {
+  "station_nm": "인천대공원",
+  "line_num": "I2",
+  "station_cd": "3226",
+  "num": 579
+}, {
+  "station_nm": "인천시청",
+  "line_num": "I2",
+  "station_cd": "3221",
+  "num": 580
+}, {
+  "station_nm": "주안",
+  "line_num": "I2",
+  "station_cd": "3218",
+  "num": 581
+}, {
+  "station_nm": "주안국가산단",
+  "line_num": "I2",
+  "station_cd": "3217",
+  "num": 582
+}, {
+  "station_nm": "가좌",
+  "line_num": "K",
+  "station_cd": "1265",
+  "num": 583
+}, {
+  "station_nm": "강매",
+  "line_num": "K",
+  "station_cd": "1269",
+  "num": 584
+}, {
+  "station_nm": "곡산",
+  "line_num": "K",
+  "station_cd": "1272",
+  "num": 585
+}, {
+  "station_nm": "공덕",
+  "line_num": "K",
+  "station_cd": "1262",
+  "num": 586
+}, {
+  "station_nm": "구리",
+  "line_num": "K",
+  "station_cd": "1205",
+  "num": 587
+}, {
+  "station_nm": "국수",
+  "line_num": "K",
+  "station_cd": "1214",
+  "num": 588
+}, {
+  "station_nm": "금릉",
+  "line_num": "K",
+  "station_cd": "1279",
+  "num": 589
+}, {
+  "station_nm": "금촌",
+  "line_num": "K",
+  "station_cd": "1280",
+  "num": 590
+}, {
+  "station_nm": "능곡",
+  "line_num": "K",
+  "station_cd": "1271",
+  "num": 591
+}, {
+  "station_nm": "대곡",
+  "line_num": "K",
+  "station_cd": "0300",
+  "num": 592
+}, {
+  "station_nm": "덕소",
+  "line_num": "K",
+  "station_cd": "1208",
+  "num": 593
+}, {
+  "station_nm": "도농",
+  "line_num": "K",
+  "station_cd": "1206",
+  "num": 594
+}, {
+  "station_nm": "도심",
+  "line_num": "K",
+  "station_cd": "1209",
+  "num": 595
+}, {
+  "station_nm": "디지털미디어시티",
+  "line_num": "K",
+  "station_cd": "1266",
+  "num": 596
+}, {
+  "station_nm": "망우",
+  "line_num": "K",
+  "station_cd": "1203",
+  "num": 597
+}, {
+  "station_nm": "문산",
+  "line_num": "K",
+  "station_cd": "1284",
+  "num": 598
+}, {
+  "station_nm": "백마",
+  "line_num": "K",
+  "station_cd": "1273",
+  "num": 599
+}, {
+  "station_nm": "상봉",
+  "line_num": "K",
+  "station_cd": "1202",
+  "num": 600
+}, {
+  "station_nm": "서강대",
+  "line_num": "K",
+  "station_cd": "1263",
+  "num": 601
+}, {
+  "station_nm": "서빙고",
+  "line_num": "K",
+  "station_cd": "1009",
+  "num": 602
+}, {
+  "station_nm": "서울",
+  "line_num": "K",
+  "station_cd": "1251",
+  "num": 603
+}, {
+  "station_nm": "수색",
+  "line_num": "K",
+  "station_cd": "1267",
+  "num": 604
+}, {
+  "station_nm": "신원",
+  "line_num": "K",
+  "station_cd": "1213",
+  "num": 605
+}, {
+  "station_nm": "신촌경의중앙선",
+  "line_num": "K",
+  "station_cd": "1252",
+  "num": 606
+}, {
+  "station_nm": "아신",
+  "line_num": "K",
+  "station_cd": "1215",
+  "num": 607
+}, {
+  "station_nm": "야당",
+  "line_num": "K",
+  "station_cd": "1277",
+  "num": 608
+}, {
+  "station_nm": "양수",
+  "line_num": "K",
+  "station_cd": "1212",
+  "num": 609
+}, {
+  "station_nm": "양원",
+  "line_num": "K",
+  "station_cd": "1204",
+  "num": 610
+}, {
+  "station_nm": "양정",
+  "line_num": "K",
+  "station_cd": "1207",
+  "num": 611
+}, {
+  "station_nm": "양평경의중앙선",
+  "line_num": "K",
+  "station_cd": "1217",
+  "num": 612
+}, {
+  "station_nm": "오빈",
+  "line_num": "K",
+  "station_cd": "1216",
+  "num": 613
+}, {
+  "station_nm": "옥수",
+  "line_num": "K",
+  "station_cd": "1011",
+  "num": 614
+}, {
+  "station_nm": "왕십리",
+  "line_num": "K",
+  "station_cd": "1013",
+  "num": 615
+}, {
+  "station_nm": "용문",
+  "line_num": "K",
+  "station_cd": "1219",
+  "num": 616
+}, {
+  "station_nm": "용산",
+  "line_num": "K",
+  "station_cd": "100C",
+  "num": 617
+}, {
+  "station_nm": "운길산",
+  "line_num": "K",
+  "station_cd": "1211",
+  "num": 618
+}, {
+  "station_nm": "운정",
+  "line_num": "K",
+  "station_cd": "1278",
+  "num": 619
+}, {
+  "station_nm": "원덕",
+  "line_num": "K",
+  "station_cd": "1218",
+  "num": 620
+}, {
+  "station_nm": "월롱",
+  "line_num": "K",
+  "station_cd": "1282",
+  "num": 621
+}, {
+  "station_nm": "응봉",
+  "line_num": "K",
+  "station_cd": "1012",
+  "num": 622
+}, {
+  "station_nm": "이촌",
+  "line_num": "K",
+  "station_cd": "1008",
+  "num": 623
+}, {
+  "station_nm": "일산",
+  "line_num": "K",
+  "station_cd": "1275",
+  "num": 624
+}, {
+  "station_nm": "중랑",
+  "line_num": "K",
+  "station_cd": "1201",
+  "num": 625
+}, {
+  "station_nm": "지평",
+  "line_num": "K",
+  "station_cd": "1220",
+  "num": 626
+}, {
+  "station_nm": "청량리",
+  "line_num": "K",
+  "station_cd": "1014",
+  "num": 627
+}, {
+  "station_nm": "탄현",
+  "line_num": "K",
+  "station_cd": "1276",
+  "num": 628
+}, {
+  "station_nm": "파주",
+  "line_num": "K",
+  "station_cd": "1283",
+  "num": 629
+}, {
+  "station_nm": "팔당",
+  "line_num": "K",
+  "station_cd": "1210",
+  "num": 630
+}, {
+  "station_nm": "풍산",
+  "line_num": "K",
+  "station_cd": "1274",
+  "num": 631
+}, {
+  "station_nm": "한남",
+  "line_num": "K",
+  "station_cd": "1010",
+  "num": 632
+}, {
+  "station_nm": "행신",
+  "line_num": "K",
+  "station_cd": "1270",
+  "num": 633
+}, {
+  "station_nm": "홍대입구",
+  "line_num": "K",
+  "station_cd": "1264",
+  "num": 634
+}, {
+  "station_nm": "화전",
+  "line_num": "K",
+  "station_cd": "1268",
+  "num": 635
+}, {
+  "station_nm": "회기",
+  "line_num": "K",
+  "station_cd": "101C",
+  "num": 636
+}, {
+  "station_nm": "효창공원앞",
+  "line_num": "K",
+  "station_cd": "1261",
+  "num": 637
+}, {
+  "station_nm": "경기광주",
+  "line_num": "KK",
+  "station_cd": "1504",
+  "num": 638
+}, {
+  "station_nm": "곤지암",
+  "line_num": "KK",
+  "station_cd": "1506",
+  "num": 639
+}, {
+  "station_nm": "부발",
+  "line_num": "KK",
+  "station_cd": "1509",
+  "num": 640
+}, {
+  "station_nm": "삼동",
+  "line_num": "KK",
+  "station_cd": "1503",
+  "num": 641
+}, {
+  "station_nm": "세종대왕릉",
+  "line_num": "KK",
+  "station_cd": "1510",
+  "num": 642
+}, {
+  "station_nm": "신둔도예촌",
+  "line_num": "KK",
+  "station_cd": "1507",
+  "num": 643
+}, {
+  "station_nm": "여주",
+  "line_num": "KK",
+  "station_cd": "1511",
+  "num": 644
+}, {
+  "station_nm": "이매",
+  "line_num": "KK",
+  "station_cd": "1502",
+  "num": 645
+}, {
+  "station_nm": "이천",
+  "line_num": "KK",
+  "station_cd": "1508",
+  "num": 646
+}, {
+  "station_nm": "초월",
+  "line_num": "KK",
+  "station_cd": "1505",
+  "num": 647
+}, {
+  "station_nm": "판교",
+  "line_num": "KK",
+  "station_cd": "1501",
+  "num": 648
+}, {
+  "station_nm": "용유",
+  "line_num": "M",
+  "station_cd": null,
+  "num": 649
+}, {
+  "station_nm": "워터파크",
+  "line_num": "M",
+  "station_cd": null,
+  "num": 650
+}, {
+  "station_nm": "인천공항일터미널",
+  "line_num": "M",
+  "station_cd": null,
+  "num": 651
+}, {
+  "station_nm": "장기주차장",
+  "line_num": "M",
+  "station_cd": null,
+  "num": 652
+}, {
+  "station_nm": "파라다이스시티",
+  "line_num": "M",
+  "station_cd": null,
+  "num": 653
+}, {
+  "station_nm": "합동청사",
+  "line_num": "M",
+  "station_cd": null,
+  "num": 654
+}, {
+  "station_nm": "강남",
+  "line_num": "S",
+  "station_cd": "4307",
+  "num": 655
+}, {
+  "station_nm": "광교",
+  "line_num": "S",
+  "station_cd": "4319",
+  "num": 656
+}, {
+  "station_nm": "광교중앙",
+  "line_num": "S",
+  "station_cd": "4318",
+  "num": 657
+}, {
+  "station_nm": "동천",
+  "line_num": "S",
+  "station_cd": "4314",
+  "num": 658
+}, {
+  "station_nm": "미금",
+  "line_num": "S",
+  "station_cd": "4313",
+  "num": 659
+}, {
+  "station_nm": "상현",
+  "line_num": "S",
+  "station_cd": "4317",
+  "num": 660
+}, {
+  "station_nm": "성복",
+  "line_num": "S",
+  "station_cd": "4316",
+  "num": 661
+}, {
+  "station_nm": "수지구청",
+  "line_num": "S",
+  "station_cd": "4315",
+  "num": 662
+}, {
+  "station_nm": "양재",
+  "line_num": "S",
+  "station_cd": "4308",
+  "num": 663
+}, {
+  "station_nm": "양재시민의숲",
+  "line_num": "S",
+  "station_cd": "4309",
+  "num": 664
+}, {
+  "station_nm": "정자",
+  "line_num": "S",
+  "station_cd": "4312",
+  "num": 665
+}, {
+  "station_nm": "청계산입구",
+  "line_num": "S",
+  "station_cd": "4310",
+  "num": 666
+}, {
+  "station_nm": "판교",
+  "line_num": "S",
+  "station_cd": "4311",
+  "num": 667
+}, {
+  "station_nm": "남동인더스파크",
+  "line_num": "SU",
+  "station_cd": "1883",
+  "num": 668
+}, {
+  "station_nm": "달월",
+  "line_num": "SU",
+  "station_cd": "1878",
+  "num": 669
+}, {
+  "station_nm": "소래포구",
+  "line_num": "SU",
+  "station_cd": "1880",
+  "num": 670
+}, {
+  "station_nm": "송도",
+  "line_num": "SU",
+  "station_cd": "1886",
+  "num": 671
+}, {
+  "station_nm": "숭의",
+  "line_num": "SU",
+  "station_cd": "1889",
+  "num": 672
+}, {
+  "station_nm": "신포",
+  "line_num": "SU",
+  "station_cd": "1890",
+  "num": 673
+}, {
+  "station_nm": "연수",
+  "line_num": "SU",
+  "station_cd": "1885",
+  "num": 674
+}, {
+  "station_nm": "오이도",
+  "line_num": "SU",
+  "station_cd": "1800",
+  "num": 675
+}, {
+  "station_nm": "원인재",
+  "line_num": "SU",
+  "station_cd": "1884",
+  "num": 676
+}, {
+  "station_nm": "월곶",
+  "line_num": "SU",
+  "station_cd": "1879",
+  "num": 677
+}, {
+  "station_nm": "인천",
+  "line_num": "SU",
+  "station_cd": "1891",
+  "num": 678
+}, {
+  "station_nm": "인천논현",
+  "line_num": "SU",
+  "station_cd": "1881",
+  "num": 679
+}, {
+  "station_nm": "인하대",
+  "line_num": "SU",
+  "station_cd": "1888",
+  "num": 680
+}, {
+  "station_nm": "호구포",
+  "line_num": "SU",
+  "station_cd": "1882",
+  "num": 681
+}, {
+  "station_nm": "경기도청북부청사",
+  "line_num": "U",
+  "station_cd": "4610",
+  "num": 682
+}, {
+  "station_nm": "경전철의정부",
+  "line_num": "U",
+  "station_cd": "4604",
+  "num": 683
+}, {
+  "station_nm": "곤제",
+  "line_num": "U",
+  "station_cd": "4612",
+  "num": 684
+}, {
+  "station_nm": "동오",
+  "line_num": "U",
+  "station_cd": "4608",
+  "num": 685
+}, {
+  "station_nm": "발곡",
+  "line_num": "U",
+  "station_cd": "4601",
+  "num": 686
+}, {
+  "station_nm": "범골",
+  "line_num": "U",
+  "station_cd": "4603",
+  "num": 687
+}, {
+  "station_nm": "새말",
+  "line_num": "U",
+  "station_cd": "4609",
+  "num": 688
+}, {
+  "station_nm": "송산",
+  "line_num": "U",
+  "station_cd": "4614",
+  "num": 689
+}, {
+  "station_nm": "어룡",
+  "line_num": "U",
+  "station_cd": "4613",
+  "num": 690
+}, {
+  "station_nm": "의정부시청",
+  "line_num": "U",
+  "station_cd": "4605",
+  "num": 691
+}, {
+  "station_nm": "의정부중앙",
+  "line_num": "U",
+  "station_cd": "4607",
+  "num": 692
+}, {
+  "station_nm": "탑석",
+  "line_num": "U",
+  "station_cd": "4615",
+  "num": 693
+}, {
+  "station_nm": "회룡",
+  "line_num": "U",
+  "station_cd": "4602",
+  "num": 694
+}, {
+  "station_nm": "효자",
+  "line_num": "U",
+  "station_cd": "4611",
+  "num": 695
+}, {
+  "station_nm": "흥선",
+  "line_num": "U",
+  "station_cd": "4606",
+  "num": 696
+}, {
+  "station_nm": "419민주묘지",
+  "line_num": "UI",
+  "station_cd": "4703",
+  "num": 697
+}, {
+  "station_nm": "가오리",
+  "line_num": "UI",
+  "station_cd": "4704",
+  "num": 698
+}, {
+  "station_nm": "보문",
+  "line_num": "UI",
+  "station_cd": "4712",
+  "num": 699
+}, {
+  "station_nm": "북한산보국문",
+  "line_num": "UI",
+  "station_cd": "4709",
+  "num": 700
+}, {
+  "station_nm": "북한산우이",
+  "line_num": "UI",
+  "station_cd": "4701",
+  "num": 701
+}, {
+  "station_nm": "삼양",
+  "line_num": "UI",
+  "station_cd": "4706",
+  "num": 702
+}, {
+  "station_nm": "삼양사거리",
+  "line_num": "UI",
+  "station_cd": "4707",
+  "num": 703
+}, {
+  "station_nm": "성신여대입구",
+  "line_num": "UI",
+  "station_cd": "4711",
+  "num": 704
+}, {
+  "station_nm": "솔밭공원",
+  "line_num": "UI",
+  "station_cd": "4702",
+  "num": 705
+}, {
+  "station_nm": "솔샘",
+  "line_num": "UI",
+  "station_cd": "4708",
+  "num": 706
+}, {
+  "station_nm": "신설동",
+  "line_num": "UI",
+  "station_cd": "4713",
+  "num": 707
+}, {
+  "station_nm": "정릉",
+  "line_num": "UI",
+  "station_cd": "4710",
+  "num": 708
+}, {
+  "station_nm": "화계",
+  "line_num": "UI",
+  "station_cd": "4705",
+  "num": 709
+}, {
+  "station_nm": "달미",
+  "line_num": "W",
+  "station_cd": "4811",
+  "num": 710
+}, {
+  "station_nm": "선부",
+  "line_num": "W",
+  "station_cd": "4812",
+  "num": 711
+}, {
+  "station_nm": "소사",
+  "line_num": "W",
+  "station_cd": "4804",
+  "num": 712
+}, {
+  "station_nm": "소새울",
+  "line_num": "W",
+  "station_cd": "4805",
+  "num": 713
+}, {
+  "station_nm": "시흥능곡",
+  "line_num": "W",
+  "station_cd": "4810",
+  "num": 714
+}, {
+  "station_nm": "시흥대야",
+  "line_num": "W",
+  "station_cd": "4806",
+  "num": 715
+}, {
+  "station_nm": "시흥시청",
+  "line_num": "W",
+  "station_cd": "4809",
+  "num": 716
+}, {
+  "station_nm": "신천",
+  "line_num": "W",
+  "station_cd": "4807",
+  "num": 717
+}, {
+  "station_nm": "신현",
+  "line_num": "W",
+  "station_cd": "4808",
+  "num": 718
+}, {
+  "station_nm": "원곡",
+  "line_num": "W",
+  "station_cd": "4814",
+  "num": 719
+}, {
+  "station_nm": "원시",
+  "line_num": "W",
+  "station_cd": "4815",
+  "num": 720
+}, {
+  "station_nm": "초지",
+  "line_num": "W",
+  "station_cd": "4813",
+  "num": 721
+}]

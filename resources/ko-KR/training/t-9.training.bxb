@@ -1,0 +1,15 @@
+train (t-993p8rjgx3bpciu1p9omrxyfd) {
+  utterance ("[g:FindPath] (캠퍼스 타운)[v:StartPoint]에서 (부천 시청)[v:EndPoint]")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561473036470)
+}
+train (t-9l6o6urgw0g9enwh7tsxswk14) {
+  utterance ("[g:FindPath] (검암)[v:StartPoint]에서 (인하대)[v:EndPoint]까지 지하철")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561366150030)
+}
+train (t-9n7qitu0crd6vabdgku8zfzxl) {
+  utterance ("[g:FindPath] (숭의)[v:StartPoint] (인하대)[v:EndPoint]")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561366392176)
+}

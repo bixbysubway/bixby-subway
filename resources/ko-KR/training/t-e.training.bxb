@@ -1,0 +1,10 @@
+train (t-eieysgnstawk691dmn90sef52) {
+  utterance ("[g:FindPath] (인천 터미널)[v:StartPoint]에서 (인천 시청)[v:EndPoint]까지")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561388539087)
+}
+train (t-euxpsphryr402q0fq8tqx73xq) {
+  utterance ("[g:FindPath] (30)[v:WishTime]분 뒤에 (인하대)[v:StartPoint]에서 (석바위시장)[v:EndPoint]까지")
+  plan (Y2BlEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLoesIzizNCMnNTGVgYGBmYGJiBNAOQBYEwgCQHAA==)
+  last-modified (1561557146625)
+}

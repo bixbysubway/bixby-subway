@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (FindPath) {
+      accepted-inputs (startPoint, endPoint, wishTime, mak, point)
+      local-endpoint (FindPath.js)
+    }
+  }
+}

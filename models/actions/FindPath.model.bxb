@@ -1,0 +1,39 @@
+// 시작역과 종착역을 input으로 받아와 경로와 시간을 알려준다.
+// 인천대입구역에서 계양역 어떻게 가?
+
+
+action (FindPath) {
+  description (지하철 경로와 시간을 알려주는 액션)
+  collect {
+    input (startPoint) {
+      type (StartPoint)
+      min (Optional) max (One)
+    }
+    input (point) {
+      type (geo.GeoPoint) //라이브러리 가져와서 모델 안만듬
+      min (Optional) max (One) //필수요소
+       default-init{ //기본값 초기화
+        if($user.currentLocation.$exists){ //위치 승인을 했다면
+          intent{
+            goal : geo.GeoPoint
+            value-set : geo.CurrentLocation {$expr($user.currentLocation)}
+          }
+        }
+      }
+    }
+     input (endPoint) {
+      type (EndPoint)
+      min (Required) max (One)
+    }
+    input (wishTime) {
+      type (WishTime)
+      min (Optional) max (One)
+    }
+    input (mak) {
+      type (Mak)
+      min (Optional) max (One)
+    }
+  }
+  type(Search)
+  output (Subway)
+}

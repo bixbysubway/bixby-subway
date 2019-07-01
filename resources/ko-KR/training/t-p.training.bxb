@@ -1,0 +1,5 @@
+train (t-pidqr3wxxoo3v32bdaz8nd5oh) {
+  utterance ("[g:FindPath] (인천 시청)[v:StartPoint] (홍대 입구)[v:EndPoint]")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561473096809)
+}

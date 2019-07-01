@@ -1,0 +1,66 @@
+layout-macro-def (SubwayList) {
+  params {
+    param (subway) {
+      type (Subway)
+      min (Required) max (One)
+    }
+  }
+  content {
+    compound-card {
+      content {
+        hbox {
+          content {
+            vbox {
+              halign (Start)
+              valign (Middle)
+              content {
+                single-line {
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                }
+                text {value ("#{value(subway.startStation)}") style (Detail_L)}
+                single-line {
+                  text {value ("#{value(subway.startTime)}") style (Detail_L_Soft)}
+                }
+                single-line {
+                  spacer text (" ") spacer text (" ") spacer text (" ") 
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                }
+              }
+            }
+            vbox {
+              halign (Center)
+              valign (Middle)
+              content {
+                text (" ")text (" ")
+                single-line {
+                  image {url ("/images/#{value(subway.imgLine)}.PNG") shape (Circle) background-color (Transparent) style (Title_XL)}
+                }
+                text (" ")text (" ")
+          //      text {value ("#{value(subway.line)}") style (Detail_M)}
+              }
+            }
+            vbox {
+              halign (End)
+              valign (Middle)
+              content {
+                single-line {
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                }
+                text {value ("#{value(subway.endStation)}") style (Detail_L)}
+                single-line {
+                  text {value ("#{value(subway.endTime)}") style (Detail_L_Soft)}
+                }
+                single-line {
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                  spacer text (" ") spacer text (" ") spacer text (" ")
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

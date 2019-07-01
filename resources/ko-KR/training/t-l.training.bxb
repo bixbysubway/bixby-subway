@@ -1,0 +1,5 @@
+train (t-l2njkhb2f5m9p687ghy03ljmd) {
+  utterance ("[g:Subway] (인천터미널)[v:StartPoint]에서 (주안)[v:EndPoint]까지 지하철 노선")
+  plan (Y2BhEE2tSMwtyEnVKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIASA+GBRAA==)
+  last-modified (1560995190435)
+}

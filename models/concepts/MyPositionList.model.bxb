@@ -1,0 +1,9 @@
+structure (MyPositionList) {
+  description (위도 경도 정보를 보여줌)
+  property (myPos) { //현위치 사용
+    type (MyPos)
+    visibility (Public)
+    min (Optional) max (One)
+  }
+}
+

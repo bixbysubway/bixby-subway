@@ -1,0 +1,5 @@
+train (t-wmi5nfrml5yvgqu9x4cdfuuea) {
+  utterance ("[g:FindPath] (신연수)[v:StartPoint] (원인재)[v:EndPoint]")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561365324669)
+}

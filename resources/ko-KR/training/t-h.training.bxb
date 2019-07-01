@@ -1,0 +1,5 @@
+train (t-htc7g7ztjlo847qea4pmbtp6i) {
+  utterance ("[g:FindPath] (캠퍼스 타운)[v:StartPoint]에서 (주안)[v:EndPoint]까지 (막차)[v:Mak]")
+  plan (Y2BlEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgYhNAnfxGwGSXTDSxKLSiDKWRgYGZgYmIE0A5AFgTCAJAcA)
+  last-modified (1561557237586)
+}

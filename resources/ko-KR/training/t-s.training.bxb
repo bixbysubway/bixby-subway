@@ -1,0 +1,5 @@
+train (t-saqkznvxs8ujx2o6lu2ewbp4k) {
+  utterance ("[g:FindPath] (신연수)[v:StartPoint] (용산)[v:EndPoint] 지하철")
+  plan (Y2BhEC3IzItPzs/VKy5NKk+s1AsGUwziaMJumXkpAYklGRgSrkDx/My8EgZJdINKEotKIFLMDIwMTECSAUiDIATARQE=)
+  last-modified (1561365200120)
+}

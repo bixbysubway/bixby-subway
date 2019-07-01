@@ -1,0 +1,6 @@
+structure (MyPos) {
+  description (__DESCRIPTION__)
+  //role-of (geo.GeoPoint)
+  //role-of (geo.NamedPoint)
+  role-of (geo.CurrentLocation) //현위치
+}

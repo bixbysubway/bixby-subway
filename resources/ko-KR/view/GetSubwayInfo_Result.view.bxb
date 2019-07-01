@@ -1,0 +1,30 @@
+result-view {
+  match: Subway(this)
+
+  message {
+    template ("출발까지 #{value(this.limitTime)} 분 남았습니다. 도착역까지 #{value(this.totalTime)} 분 소요됩니다.")
+    
+  }
+
+  render {
+    if(size(this) == 1){
+      layout{
+        layout-macro (SubwayInfo){
+          param(info){
+            expression (this)
+          }
+        }
+      }
+    } else { 
+      list-of (this){
+        where-each (item){
+          layout-macro (SubwayList){
+            param(subway){
+              expression (item)
+            }
+          }
+        }
+      }
+    }
+  }
+}
